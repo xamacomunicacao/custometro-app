@@ -9,17 +9,22 @@ export default async function DetalhesDespesasPage({
   params: Promise<{ id: string }>
 }) {
   const { id } = await params;
-  const politico = await getPoliticoById(id);
-  
-  if (!politico) {
+  try {
+    const politico = await getPoliticoById(id);
+    
+    if (!politico) {
+      notFound();
+    }
+
+    const despesas = await getDespesas(id);
+
+    return (
+      <main className="w-full">
+        <DetalhesDespesas politico={politico} despesas={despesas} />
+      </main>
+    );
+  } catch (error) {
+    console.error("Erro na busca de politico por id:", error);
     notFound();
   }
-
-  const despesas = await getDespesas(id);
-
-  return (
-    <main className="w-full">
-      <DetalhesDespesas politico={politico} despesas={despesas} />
-    </main>
-  );
 }

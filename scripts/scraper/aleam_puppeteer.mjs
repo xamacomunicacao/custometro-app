@@ -6,7 +6,7 @@ import prisma from '../../src/lib/prisma.ts';
 
 async function scrapeALEAM() {
   console.log("Iniciando Robô Puppeteer - ALEAM...");
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   
   await page.goto('https://www.aleam.gov.br/transparencia/controle-de-cota-parlamentar/', { waitUntil: 'networkidle2' });
@@ -64,43 +64,34 @@ async function scrapeALEAM() {
 
       console.log(`- Gasto: R$ ${resultado}`);
       
-      if(resultado > 0) {
-        // Encontra ou cria o politico
-        const depId = dep.nome.toLowerCase().replace(/[^a-z0-9]/g, '-');
-        let politico = await prisma.politico.findUnique({
-            where: { id: depId }
-        });
+      // Encontra o politico (precisa ter sido criado pelo Seed)
+      const depId = dep.nome.toLowerCase().replace(/[^a-z0-9]/g, '-');
+      let politico = await prisma.politico.findUnique({
+          where: { id: depId }
+      });
 
-        if (!politico) {
-            politico = await prisma.politico.create({
-                data: {
-                    id: depId,
-                    nome: dep.nome,
-                    partido: "ND",
-                    fotoUrl: "",
-                    cargo: 'DEPUTADO'
-                }
-            });
-        }
-
-        const mesAno = `${mesValue}/${anoValue}`;
-        const despesaId = `${depId}-ceap-${mesAno}`.substring(0, 100);
-
-        await prisma.despesa.upsert({
-            where: { id: despesaId },
-            update: {
-                valor: resultado
-            },
-            create: {
-                id: despesaId,
-                descricao: 'Total Despesas CEAP',
-                valor: resultado,
-                data: mesAno,
-                fornecedor: 'ALEAM Portal',
-                politicoId: politico.id
-            }
-        });
+      if (!politico) {
+          console.log(`Politico ${dep.nome} não encontrado no Seed do banco! Pular.`);
+          continue;
       }
+
+      const mesAno = `${mesValue}/${anoValue}`;
+      const despesaId = `${depId}-ceap-${mesAno}`.substring(0, 100);
+
+      await prisma.despesa.upsert({
+          where: { id: despesaId },
+          update: {
+              valor: resultado
+          },
+          create: {
+              id: despesaId,
+              descricao: 'Total Despesas CEAP',
+              valor: resultado,
+              data: mesAno,
+              fornecedor: 'ALEAM Portal',
+              politicoId: politico.id
+          }
+      });
 
     } catch (e) {
       console.log(`Erro ao extrair ${dep.nome}: ${e.message}`);

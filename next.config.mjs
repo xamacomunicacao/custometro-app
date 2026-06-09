@@ -8,6 +8,14 @@ const nextConfig = {
     // Ignore TS type errors during Vercel builds
     ignoreBuildErrors: true,
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'ui-avatars.com',
+      },
+    ],
+  },
 };
 
 export default nextConfig;

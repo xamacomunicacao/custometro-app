@@ -6,7 +6,7 @@ import prisma from '../../src/lib/prisma.ts';
 
 async function scrapeCMM() {
   console.log("Iniciando Robô Puppeteer - CMM...");
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   
   await page.goto('https://www.cmm.am.gov.br/transparencia/', { waitUntil: 'networkidle2' });
@@ -75,42 +75,33 @@ async function scrapeCMM() {
 
       console.log(`- Gasto Total: R$ ${despesas}`);
 
-      if (despesas > 0) {
-        const verId = ver.nome.toLowerCase().replace(/[^a-z0-9]/g, '-');
-        let politico = await prisma.politico.findUnique({
-            where: { id: verId }
-        });
+      const verId = ver.nome.toLowerCase().replace(/[^a-z0-9]/g, '-');
+      let politico = await prisma.politico.findUnique({
+          where: { id: verId }
+      });
 
-        if (!politico) {
-            politico = await prisma.politico.create({
-                data: {
-                    id: verId,
-                    nome: ver.nome,
-                    partido: "ND",
-                    fotoUrl: "",
-                    cargo: 'VEREADOR'
-                }
-            });
-        }
-
-        const mesAno = `${mesValue}/${anoValue}`;
-        const despesaId = `${verId}-ceap-${mesAno}`.substring(0, 100);
-
-        await prisma.despesa.upsert({
-            where: { id: despesaId },
-            update: {
-                valor: despesas
-            },
-            create: {
-                id: despesaId,
-                descricao: 'Total Despesas CEAP',
-                valor: despesas,
-                data: mesAno,
-                fornecedor: 'CMM Portal',
-                politicoId: politico.id
-            }
-        });
+      if (!politico) {
+          console.log(`Vereador ${ver.nome} não encontrado no Seed do banco! Pular.`);
+          continue;
       }
+
+      const mesAno = `${mesValue}/${anoValue}`;
+      const despesaId = `${verId}-ceap-${mesAno}`.substring(0, 100);
+
+      await prisma.despesa.upsert({
+          where: { id: despesaId },
+          update: {
+              valor: despesas
+          },
+          create: {
+              id: despesaId,
+              descricao: 'Total Despesas CEAP',
+              valor: despesas,
+              data: mesAno,
+              fornecedor: 'CMM Portal',
+              politicoId: politico.id
+          }
+      });
 
     } catch (e) {
       console.log(`Erro ao extrair ${ver.nome}: ${e.message}`);

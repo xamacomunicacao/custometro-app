@@ -1,0 +1,2237 @@
+[
+  {
+    "id": "4994",
+    "nome": "Eduardo Braga",
+    "partido": "MDB",
+    "cargo": "Senador",
+    "fotoUrl": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4994.jpg",
+    "despesas": [
+      {
+        "id": "sen-2246993",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 9000,
+        "data": "2025-01-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=01/2025"
+      },
+      {
+        "id": "sen-2246853",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2025-01-10",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=30"
+      },
+      {
+        "id": "sen-2245641",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-12-12",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=301"
+      },
+      {
+        "id": "sen-2245685",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-12-12",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=300"
+      },
+      {
+        "id": "sen-2245315",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-12-10",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=22"
+      },
+      {
+        "id": "sen-2245314",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-12-09",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=394"
+      },
+      {
+        "id": "sen-2244666",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-11-30",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=11/2024"
+      },
+      {
+        "id": "sen-2243332",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-11-21",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=392"
+      },
+      {
+        "id": "sen-2243333",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-21",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=21"
+      },
+      {
+        "id": "sen-2243026",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-13",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=26"
+      },
+      {
+        "id": "sen-2243331",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-13",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=299"
+      },
+      {
+        "id": "sen-2243027",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-12",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=020"
+      },
+      {
+        "id": "sen-2242844",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-12",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=21"
+      },
+      {
+        "id": "sen-2242846",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-12",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=022"
+      },
+      {
+        "id": "sen-2242855",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-12",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=23"
+      },
+      {
+        "id": "sen-2242866",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-11-12",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=24"
+      },
+      {
+        "id": "sen-2242638",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-11-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=10/2024"
+      },
+      {
+        "id": "sen-2241591",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-10-23",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=387"
+      },
+      {
+        "id": "sen-2241588",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-10-23",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=20"
+      },
+      {
+        "id": "sen-2240769",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-10-11",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=295"
+      },
+      {
+        "id": "sen-2240766",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-10-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=09/2024"
+      },
+      {
+        "id": "sen-2240768",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 800,
+        "data": "2024-10-10",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=17"
+      },
+      {
+        "id": "sen-2241593",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2544.34,
+        "data": "2024-10-08",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=APLGPF"
+      },
+      {
+        "id": "sen-2238816",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-09-25",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=384"
+      },
+      {
+        "id": "sen-2238815",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-09-25",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=19"
+      },
+      {
+        "id": "sen-2244242",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1041.74,
+        "data": "2024-09-20",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=FWLLXG"
+      },
+      {
+        "id": "sen-2244236",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1174.36,
+        "data": "2024-09-19",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OFCYVO"
+      },
+      {
+        "id": "sen-2238563",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 21.47,
+        "data": "2024-09-16",
+        "fornecedor": "Uber Do Brasil Tecnologia  LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=s/n"
+      },
+      {
+        "id": "sen-2238564",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 40.9,
+        "data": "2024-09-16",
+        "fornecedor": "Uber Do Brasil Tecnologia  LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=s/n"
+      },
+      {
+        "id": "sen-2238251",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2413.01,
+        "data": "2024-09-13",
+        "fornecedor": "AZUL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=BLHCVD"
+      },
+      {
+        "id": "sen-2237766",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-09-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=08/2024"
+      },
+      {
+        "id": "sen-2237486",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-09-03",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=287"
+      },
+      {
+        "id": "sen-2237767",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1170.96,
+        "data": "2024-08-30",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=HUMONV"
+      },
+      {
+        "id": "sen-2237546",
+        "descricao": null,
+        "valor": 3500,
+        "data": "2024-08-29",
+        "fornecedor": "LA HOTELS EMPREENDIMENTOS 1 LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2237546"
+      },
+      {
+        "id": "sen-2235608",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-08-26",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=18"
+      },
+      {
+        "id": "sen-2235610",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-08-25",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=383"
+      },
+      {
+        "id": "sen-2235300",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-08-12",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=286"
+      },
+      {
+        "id": "sen-2235301",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-08-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=07/2024"
+      },
+      {
+        "id": "sen-2234304",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-08-07",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=17"
+      },
+      {
+        "id": "sen-2233638",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-08-01",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=381"
+      },
+      {
+        "id": "sen-2233640",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2358.27,
+        "data": "2024-07-19",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=DMOPCM"
+      },
+      {
+        "id": "sen-2232629",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 35,
+        "data": "2024-07-12",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2232595",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 1643,
+        "data": "2024-07-12",
+        "fornecedor": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=26155"
+      },
+      {
+        "id": "sen-2232617",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 49.91,
+        "data": "2024-07-12",
+        "fornecedor": "Uber Do Brasil Tecnologia  LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2235305",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 20,
+        "data": "2024-07-11",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2233645",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 43,
+        "data": "2024-07-11",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2232436",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-07-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=006/2024"
+      },
+      {
+        "id": "sen-2233644",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 20,
+        "data": "2024-07-10",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2232627",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 20,
+        "data": "2024-07-10",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2232073",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-07-09",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=15"
+      },
+      {
+        "id": "sen-2232630",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-07-09",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=16"
+      },
+      {
+        "id": "sen-2232626",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 60,
+        "data": "2024-07-09",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2232594",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3317.64,
+        "data": "2024-07-08",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=ODFACG"
+      },
+      {
+        "id": "sen-2232593",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3339.2,
+        "data": "2024-07-08",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OCMSKT"
+      },
+      {
+        "id": "sen-2231696",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-07-03",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=283"
+      },
+      {
+        "id": "sen-2231070",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-07-01",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=380"
+      },
+      {
+        "id": "sen-2232168",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 856.8,
+        "data": "2024-06-28",
+        "fornecedor": "TROPICAL EXECUTIVE HOTEL - SN. SONG. LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=47449"
+      },
+      {
+        "id": "sen-2231074",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3248.67,
+        "data": "2024-06-27",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=FBDZQZ"
+      },
+      {
+        "id": "sen-2237773",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 40,
+        "data": "2024-06-26",
+        "fornecedor": "VITOTÁXI - COOPERATIVA MISTA DE TRABALHO E CONSUMO DOS TAXISTAS DO AMAZONAS",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2231318",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3363.62,
+        "data": "2024-06-21",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KTFOBY"
+      },
+      {
+        "id": "sen-2229241",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-06-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=05/2024"
+      },
+      {
+        "id": "sen-2228860",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-06-04",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=377"
+      },
+      {
+        "id": "sen-2229588",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-06-04",
+        "fornecedor": "SHIFT DIGITAL LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=279"
+      },
+      {
+        "id": "sen-2234312",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 34,
+        "data": "2024-05-22",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2227435",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-05-15",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=10"
+      },
+      {
+        "id": "sen-2227436",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-05-15",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=11"
+      },
+      {
+        "id": "sen-2227437",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-05-15",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=12"
+      },
+      {
+        "id": "sen-2227469",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-05-15",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=13"
+      },
+      {
+        "id": "sen-2227475",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-05-15",
+        "fornecedor": "PAULO HENRIQUE DE OLIVEIRA NADICEO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=14"
+      },
+      {
+        "id": "sen-2226535",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-05-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=04/2024"
+      },
+      {
+        "id": "sen-2227261",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-05-06",
+        "fornecedor": "ODIAS JOSÉ COSTA MONTEIRO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=14"
+      },
+      {
+        "id": "sen-2226632",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-05-02",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=370"
+      },
+      {
+        "id": "sen-2225978",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2250.3,
+        "data": "2024-04-19",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GYAHRJ"
+      },
+      {
+        "id": "sen-2226537",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 941.79,
+        "data": "2024-04-19",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KLJHRX"
+      },
+      {
+        "id": "sen-2224023",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-04-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=03/2024"
+      },
+      {
+        "id": "sen-2225258",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 477.75,
+        "data": "2024-04-09",
+        "fornecedor": "ZM COMERCIO E ADMINISTRAÇÃO HOTELEIRA LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=16989"
+      },
+      {
+        "id": "sen-2225293",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 69.64,
+        "data": "2024-04-08",
+        "fornecedor": "Uber Do Brasil Tecnologia  LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=S/N"
+      },
+      {
+        "id": "sen-2225266",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 54.13,
+        "data": "2024-04-07",
+        "fornecedor": "Uber Do Brasil Tecnologia  LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=s/n"
+      },
+      {
+        "id": "sen-2225255",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 627.63,
+        "data": "2024-04-03",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=JKSBND"
+      },
+      {
+        "id": "sen-2225752",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 627.63,
+        "data": "2024-04-03",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=JKSBND"
+      },
+      {
+        "id": "sen-2225048",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2288.19,
+        "data": "2024-04-03",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GNFJHA"
+      },
+      {
+        "id": "sen-2225256",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2482.64,
+        "data": "2024-04-03",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=HYWLEA"
+      },
+      {
+        "id": "sen-2224341",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 25000,
+        "data": "2024-04-02",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=369"
+      },
+      {
+        "id": "sen-2225049",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2341.16,
+        "data": "2024-04-01",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NZLBVX"
+      },
+      {
+        "id": "sen-2224021",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3479,
+        "data": "2024-03-14",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=FJJHDT"
+      },
+      {
+        "id": "sen-2222700",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 12500,
+        "data": "2024-03-13",
+        "fornecedor": "JL DE B BRITO PRODUÇÕES - EPP",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=367"
+      },
+      {
+        "id": "sen-2222704",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-03-12",
+        "fornecedor": "ROSIMAR HONORATO LOBO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=005"
+      },
+      {
+        "id": "sen-2222157",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-03-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=02/2024"
+      },
+      {
+        "id": "sen-2221775",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 5400,
+        "data": "2024-03-04",
+        "fornecedor": "TIAGO FERREIRA DE MOURA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=006"
+      },
+      {
+        "id": "sen-2224013",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 426.1,
+        "data": "2024-02-29",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NGRHIW"
+      },
+      {
+        "id": "sen-2221536",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 2000,
+        "data": "2024-02-28",
+        "fornecedor": "ROSIMAR HONORATO LOBO",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=4"
+      },
+      {
+        "id": "sen-2222127",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1285.6,
+        "data": "2024-02-26",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=SGHCPV"
+      },
+      {
+        "id": "sen-2222705",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 505.09,
+        "data": "2024-02-26",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WEAWTQ"
+      },
+      {
+        "id": "sen-2220852",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 6000,
+        "data": "2024-02-20",
+        "fornecedor": "CONEKTAH ESTRATÉGIAS DIGITAIS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=102"
+      },
+      {
+        "id": "sen-2222116",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2067.31,
+        "data": "2024-02-15",
+        "fornecedor": "MARUAGA AGENCIA DE TURISMO E EVENTOS LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LTNQDN"
+      },
+      {
+        "id": "sen-2220655",
+        "descricao": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+        "valor": 8500,
+        "data": "2024-02-10",
+        "fornecedor": "RBL PARTICIPAÇÕES OPERACIONAL LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=01/2024"
+      },
+      {
+        "id": "sen-2220673",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 1785.4,
+        "data": "2024-02-08",
+        "fornecedor": "HPLUS ADMINISTRAÇÃO E HOTELARIA LTDA - CULLINAN",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=37896"
+      },
+      {
+        "id": "sen-2220705",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 22,
+        "data": "2024-02-08",
+        "fornecedor": "SINPE TAXI",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=s/n"
+      },
+      {
+        "id": "sen-2221026",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 15,
+        "data": "2024-02-07",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=s/n"
+      },
+      {
+        "id": "sen-2221025",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 15,
+        "data": "2024-02-07",
+        "fornecedor": "ANTAXI - Associação Nacional de Taxistas Informatizados",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=s/n"
+      }
+    ]
+  },
+  {
+    "id": "5525",
+    "nome": "Omar Aziz",
+    "partido": "PSD",
+    "cargo": "Senador",
+    "fotoUrl": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5525.jpg",
+    "despesas": [
+      {
+        "id": "sen-2244186",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 60000,
+        "data": "2024-12-02",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1038"
+      },
+      {
+        "id": "sen-2244029",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 435.07,
+        "data": "2024-11-23",
+        "fornecedor": "GOL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=DAPWIT"
+      },
+      {
+        "id": "sen-2245976",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1791.56,
+        "data": "2024-11-23",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GRSOZQ"
+      },
+      {
+        "id": "sen-2244030",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1841.85,
+        "data": "2024-11-14",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=DXLZTM"
+      },
+      {
+        "id": "sen-2245972",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1627.85,
+        "data": "2024-11-11",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=AWFZFC"
+      },
+      {
+        "id": "sen-2245970",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1647.97,
+        "data": "2024-11-11",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=AWLKNY"
+      },
+      {
+        "id": "sen-2245968",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 962.57,
+        "data": "2024-11-03",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KSHQJN"
+      },
+      {
+        "id": "sen-2245967",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1260.97,
+        "data": "2024-11-03",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=JALCLE"
+      },
+      {
+        "id": "sen-2242240",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-11-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1023"
+      },
+      {
+        "id": "sen-2243039",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1182.14,
+        "data": "2024-10-19",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=FZQLRF"
+      },
+      {
+        "id": "sen-2243038",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1202.26,
+        "data": "2024-10-19",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WCHCMJ"
+      },
+      {
+        "id": "sen-2241907",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3707.82,
+        "data": "2024-10-19",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=CBUKPZ"
+      },
+      {
+        "id": "sen-2239071",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-10-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1006"
+      },
+      {
+        "id": "sen-2239914",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 4932.59,
+        "data": "2024-09-23",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=YQPQVA"
+      },
+      {
+        "id": "sen-2238498",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2370.91,
+        "data": "2024-09-17",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OEPXBP"
+      },
+      {
+        "id": "sen-2239917",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2205.91,
+        "data": "2024-09-17",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OEPXBP"
+      },
+      {
+        "id": "sen-2242832",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 4006.88,
+        "data": "2024-09-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=JNTTBW"
+      },
+      {
+        "id": "sen-2240695",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1159.07,
+        "data": "2024-09-14",
+        "fornecedor": "GOL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=JRLMCJ"
+      },
+      {
+        "id": "sen-2242831",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3541.79,
+        "data": "2024-09-13",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=DLFOKN"
+      },
+      {
+        "id": "sen-2240697",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1485.85,
+        "data": "2024-09-11",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OCSKQK"
+      },
+      {
+        "id": "sen-2243044",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 796.71,
+        "data": "2024-09-07",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=FABITI"
+      },
+      {
+        "id": "sen-2243046",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 835.97,
+        "data": "2024-09-07",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LWUXAF"
+      },
+      {
+        "id": "sen-2243037",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1355.85,
+        "data": "2024-09-05",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=DZNXAD"
+      },
+      {
+        "id": "sen-2243035",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1367.21,
+        "data": "2024-09-04",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=SXFGJX"
+      },
+      {
+        "id": "sen-2235889",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-09-02",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=995"
+      },
+      {
+        "id": "sen-2236889",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 6228.98,
+        "data": "2024-08-28",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NMYWQZ"
+      },
+      {
+        "id": "sen-2246040",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3452.58,
+        "data": "2024-08-25",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KDGHBF"
+      },
+      {
+        "id": "sen-2246038",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 5399.59,
+        "data": "2024-08-25",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KBXQAJ"
+      },
+      {
+        "id": "sen-2235423",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2989.97,
+        "data": "2024-08-24",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=SILQMT"
+      },
+      {
+        "id": "sen-2235469",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2989.97,
+        "data": "2024-08-24",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=SILQMT"
+      },
+      {
+        "id": "sen-2242969",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3775.95,
+        "data": "2024-08-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LTMXKL"
+      },
+      {
+        "id": "sen-2242880",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3880.73,
+        "data": "2024-08-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LSSZJT"
+      },
+      {
+        "id": "sen-2242879",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 4420.32,
+        "data": "2024-08-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LFBARE"
+      },
+      {
+        "id": "sen-2244979",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3645.41,
+        "data": "2024-08-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NPGBWR"
+      },
+      {
+        "id": "sen-2244981",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3645.41,
+        "data": "2024-08-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NOEUPZ"
+      },
+      {
+        "id": "sen-2240692",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1361.46,
+        "data": "2024-08-15",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WEPPGC"
+      },
+      {
+        "id": "sen-2240691",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1444.69,
+        "data": "2024-08-15",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GHBVHP"
+      },
+      {
+        "id": "sen-2233430",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-08-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=979"
+      },
+      {
+        "id": "sen-2242827",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3731.12,
+        "data": "2024-07-24",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KJSSRI"
+      },
+      {
+        "id": "sen-2231586",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 6297.38,
+        "data": "2024-07-02",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=CPWAWS"
+      },
+      {
+        "id": "sen-2231040",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-07-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=963"
+      },
+      {
+        "id": "sen-2230380",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 6408.38,
+        "data": "2024-06-17",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GSLSBC"
+      },
+      {
+        "id": "sen-2245966",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 473.07,
+        "data": "2024-06-15",
+        "fornecedor": "GOL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=DLSOUP"
+      },
+      {
+        "id": "sen-2239926",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 510.11,
+        "data": "2024-06-10",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GAXKQN"
+      },
+      {
+        "id": "sen-2235308",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 531.67,
+        "data": "2024-06-10",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GJOSPR"
+      },
+      {
+        "id": "sen-2228600",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-06-03",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=950"
+      },
+      {
+        "id": "sen-2235311",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 496,
+        "data": "2024-05-23",
+        "fornecedor": "GOL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=MHDBXN"
+      },
+      {
+        "id": "sen-2235306",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 556.47,
+        "data": "2024-05-14",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WOJAMZ"
+      },
+      {
+        "id": "sen-2226361",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-05-02",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=934"
+      },
+      {
+        "id": "sen-2237541",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 386,
+        "data": "2024-04-26",
+        "fornecedor": "GOL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=GUJLQQ"
+      },
+      {
+        "id": "sen-2237540",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 386,
+        "data": "2024-04-26",
+        "fornecedor": "GOL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OCMOGX"
+      },
+      {
+        "id": "sen-2238753",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2556.48,
+        "data": "2024-04-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KXMBXQ"
+      },
+      {
+        "id": "sen-2238760",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2805.91,
+        "data": "2024-04-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NTBIZB"
+      },
+      {
+        "id": "sen-2230444",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3134.38,
+        "data": "2024-04-03",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KSMWKD"
+      },
+      {
+        "id": "sen-2235303",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 592.55,
+        "data": "2024-04-03",
+        "fornecedor": "123 Viagens e Turismo LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=IEJGYY"
+      },
+      {
+        "id": "sen-2223951",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-04-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=920"
+      },
+      {
+        "id": "sen-2221689",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-03-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=909"
+      },
+      {
+        "id": "sen-2224401",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2268.17,
+        "data": "2024-02-27",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WXWFNW"
+      },
+      {
+        "id": "sen-2224455",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1624.21,
+        "data": "2024-02-25",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=MZIKHH"
+      },
+      {
+        "id": "sen-2224452",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1624.21,
+        "data": "2024-02-25",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=EVVION"
+      },
+      {
+        "id": "sen-2224454",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3277.51,
+        "data": "2024-02-25",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=KLBOEN"
+      },
+      {
+        "id": "sen-2224020",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1580.55,
+        "data": "2024-02-23",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OLPEIS"
+      },
+      {
+        "id": "sen-2224019",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1624.21,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=MZAUKJ"
+      },
+      {
+        "id": "sen-2229944",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1817.81,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WJOFHT"
+      },
+      {
+        "id": "sen-2229945",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1817.81,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WJQCHP"
+      },
+      {
+        "id": "sen-2229948",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 4200.41,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=OOQNRZ"
+      },
+      {
+        "id": "sen-2230916",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 2917.81,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LSCZNV"
+      },
+      {
+        "id": "sen-2230913",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3148.81,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=NDDZJT"
+      },
+      {
+        "id": "sen-2230917",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3475.67,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=LRJKJN"
+      },
+      {
+        "id": "sen-2235130",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3732,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=ORAEAB"
+      },
+      {
+        "id": "sen-2235131",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 3759,
+        "data": "2024-02-16",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=FSPTSY"
+      },
+      {
+        "id": "sen-2219471",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-02-01",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=895"
+      },
+      {
+        "id": "sen-2226531",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1520.54,
+        "data": "2024-02-01",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=JQCNAX"
+      },
+      {
+        "id": "sen-2226533",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1624.21,
+        "data": "2024-02-01",
+        "fornecedor": "Amazon Receptive",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=WYLWNU"
+      },
+      {
+        "id": "sen-2226534",
+        "descricao": "Passagens aéreas, aquáticas e terrestres nacionais",
+        "valor": 1624.21,
+        "data": "2024-02-01",
+        "fornecedor": "LATAM",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=ESMMBJ"
+      },
+      {
+        "id": "sen-2218410",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 30000,
+        "data": "2024-01-02",
+        "fornecedor": "UPLINK Assessoria e Consultoria Empresarial Eireli -ME",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=872"
+      }
+    ]
+  },
+  {
+    "id": "5502",
+    "nome": "Plínio Valério",
+    "partido": "PSDB",
+    "cargo": "Senador",
+    "fotoUrl": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5502.jpg",
+    "despesas": [
+      {
+        "id": "sen-2247281",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 1420,
+        "data": "2025-01-20",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=033421"
+      },
+      {
+        "id": "sen-2246951",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-12-30",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=33399"
+      },
+      {
+        "id": "sen-2246950",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 110,
+        "data": "2024-12-28",
+        "fornecedor": "POSTO TOCANTINS LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=20335"
+      },
+      {
+        "id": "sen-2246946",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 5000,
+        "data": "2024-12-27",
+        "fornecedor": "CM7 Serviços de Comunicações Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1203"
+      },
+      {
+        "id": "sen-2246949",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 250,
+        "data": "2024-12-24",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=15404"
+      },
+      {
+        "id": "sen-2246944",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 1420,
+        "data": "2024-12-23",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=33342"
+      },
+      {
+        "id": "sen-2246945",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 2580,
+        "data": "2024-12-23",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=33342"
+      },
+      {
+        "id": "sen-2246948",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 140,
+        "data": "2024-12-21",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=28011"
+      },
+      {
+        "id": "sen-2246947",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-12-18",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=32257"
+      },
+      {
+        "id": "sen-2245702",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-12-15",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=14491"
+      },
+      {
+        "id": "sen-2245701",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 300,
+        "data": "2024-12-12",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=28560"
+      },
+      {
+        "id": "sen-2247486",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 185,
+        "data": "2024-12-11",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=4441851592"
+      },
+      {
+        "id": "sen-2247755",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 185,
+        "data": "2024-12-10",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=4442227200"
+      },
+      {
+        "id": "sen-2245180",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 20000,
+        "data": "2024-12-06",
+        "fornecedor": "Plutão da Amazônia Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1089"
+      },
+      {
+        "id": "sen-2245066",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 50,
+        "data": "2024-12-06",
+        "fornecedor": "AUTO POSTO ALEIXO LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=227160"
+      },
+      {
+        "id": "sen-2245067",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-12-06",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=352542"
+      },
+      {
+        "id": "sen-2247485",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 266.85,
+        "data": "2024-12-05",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2210708147"
+      },
+      {
+        "id": "sen-2247487",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 266.85,
+        "data": "2024-12-05",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2210710444"
+      },
+      {
+        "id": "sen-2244534",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 500,
+        "data": "2024-12-02",
+        "fornecedor": "M Mendes Lima",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=30192"
+      },
+      {
+        "id": "sen-2246323",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 267,
+        "data": "2024-11-27",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2209129728"
+      },
+      {
+        "id": "sen-2246325",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 869.66,
+        "data": "2024-11-27",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2209130064"
+      },
+      {
+        "id": "sen-2244533",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-11-27",
+        "fornecedor": "A L X Comercio de Combustíveis Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=861017"
+      },
+      {
+        "id": "sen-2243454",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 5000,
+        "data": "2024-11-25",
+        "fornecedor": "CM7 Serviços de Comunicações Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1192"
+      },
+      {
+        "id": "sen-2243462",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 1420,
+        "data": "2024-11-22",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=033257"
+      },
+      {
+        "id": "sen-2243452",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 2580,
+        "data": "2024-11-22",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=033257"
+      },
+      {
+        "id": "sen-2243456",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-11-22",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=26719"
+      },
+      {
+        "id": "sen-2243197",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 20000,
+        "data": "2024-11-19",
+        "fornecedor": "Plutão da Amazônia Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1086"
+      },
+      {
+        "id": "sen-2246324",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 134,
+        "data": "2024-11-18",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2207913672"
+      },
+      {
+        "id": "sen-2243206",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-11-18",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=30310"
+      },
+      {
+        "id": "sen-2243194",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-11-13",
+        "fornecedor": "Japiim Com Var Comb LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=22626"
+      },
+      {
+        "id": "sen-2244864",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 134,
+        "data": "2024-11-12",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2207046574"
+      },
+      {
+        "id": "sen-2244865",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 135,
+        "data": "2024-11-12",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=4440162137"
+      },
+      {
+        "id": "sen-2243192",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 54.48,
+        "data": "2024-11-12",
+        "fornecedor": "Auto posto bons amigos ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=198559"
+      },
+      {
+        "id": "sen-2243195",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-11-11",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=5678"
+      },
+      {
+        "id": "sen-2242727",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-11-08",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=43685"
+      },
+      {
+        "id": "sen-2242728",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-11-06",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=34803"
+      },
+      {
+        "id": "sen-2242398",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-11-03",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=27407"
+      },
+      {
+        "id": "sen-2241890",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 5000,
+        "data": "2024-10-28",
+        "fornecedor": "CM7 Serviços de Comunicações Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1177"
+      },
+      {
+        "id": "sen-2241892",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 457.81,
+        "data": "2024-10-25",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=42825"
+      },
+      {
+        "id": "sen-2241489",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 20000,
+        "data": "2024-10-22",
+        "fornecedor": "Plutão da Amazônia Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1082"
+      },
+      {
+        "id": "sen-2241258",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 1333.33,
+        "data": "2024-10-21",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=033154"
+      },
+      {
+        "id": "sen-2241261",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 2666.66,
+        "data": "2024-10-21",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=033154"
+      },
+      {
+        "id": "sen-2241263",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-10-17",
+        "fornecedor": "DAT Comércio de Derivados de Petróleo Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=24222"
+      },
+      {
+        "id": "sen-2241264",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 406.09,
+        "data": "2024-10-17",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=23343"
+      },
+      {
+        "id": "sen-2241262",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-10-16",
+        "fornecedor": "POSTO TOCANTINS LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=15420"
+      },
+      {
+        "id": "sen-2240943",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 250,
+        "data": "2024-10-11",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=62375"
+      },
+      {
+        "id": "sen-2240685",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-10-09",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=22296"
+      },
+      {
+        "id": "sen-2240531",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 300,
+        "data": "2024-10-09",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=7825"
+      },
+      {
+        "id": "sen-2240683",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 25000,
+        "data": "2024-10-08",
+        "fornecedor": "CTA - CLEITON TÁXI AÉREO LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=000.004.634"
+      },
+      {
+        "id": "sen-2240684",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-10-05",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=21639"
+      },
+      {
+        "id": "sen-2240485",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-10-04",
+        "fornecedor": "POSTO TOCANTINS LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=14271"
+      },
+      {
+        "id": "sen-2239399",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 5000,
+        "data": "2024-10-01",
+        "fornecedor": "CM7 Serviços de Comunicações Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1158"
+      },
+      {
+        "id": "sen-2240950",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 500,
+        "data": "2024-10-01",
+        "fornecedor": "M Mendes Lima",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=22201"
+      },
+      {
+        "id": "sen-2240686",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 810.36,
+        "data": "2024-09-27",
+        "fornecedor": "Auto Posto Rezende Parque Dez LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=761278"
+      },
+      {
+        "id": "sen-2240687",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-09-27",
+        "fornecedor": "Diamante Comercio e Derivados de Petróleo Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=16565"
+      },
+      {
+        "id": "sen-2239066",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-09-26",
+        "fornecedor": "Express Comercio Varejista de Derivados de Petroleo Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=125021"
+      },
+      {
+        "id": "sen-2238679",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 20000,
+        "data": "2024-09-24",
+        "fornecedor": "Plutão da Amazônia Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1076"
+      },
+      {
+        "id": "sen-2238677",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-09-24",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=31072"
+      },
+      {
+        "id": "sen-2238675",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-09-20",
+        "fornecedor": "POSTO TOCANTINS LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=12040"
+      },
+      {
+        "id": "sen-2238241",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 1500,
+        "data": "2024-09-19",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=33075"
+      },
+      {
+        "id": "sen-2238242",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 2500,
+        "data": "2024-09-19",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=33075"
+      },
+      {
+        "id": "sen-2240945",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 400.05,
+        "data": "2024-09-19",
+        "fornecedor": "A AZEVEDO DE MEDEIROS COMERCIAL",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=25642"
+      },
+      {
+        "id": "sen-2238674",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-09-19",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=18856"
+      },
+      {
+        "id": "sen-2238050",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 30000,
+        "data": "2024-09-16",
+        "fornecedor": "CTA - CLEITON TÁXI AÉREO LTDA",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=000.004.603"
+      },
+      {
+        "id": "sen-2238243",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-09-16",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=23189"
+      },
+      {
+        "id": "sen-2238039",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-09-13",
+        "fornecedor": "MJ Comércio de Combustíveis e Transportes Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=97698"
+      },
+      {
+        "id": "sen-2239190",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 1318.72,
+        "data": "2024-09-12",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2123419412"
+      },
+      {
+        "id": "sen-2239191",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 1338.84,
+        "data": "2024-09-12",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2123419904"
+      },
+      {
+        "id": "sen-2238038",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-09-11",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=22635"
+      },
+      {
+        "id": "sen-2238037",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-09-11",
+        "fornecedor": "SP Poso - Comèrcio de Combustíveis para veículos Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=39684"
+      },
+      {
+        "id": "sen-2237793",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-09-10",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=16926"
+      },
+      {
+        "id": "sen-2238036",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-09-10",
+        "fornecedor": "T B Comércio de Combustivel Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=3543"
+      },
+      {
+        "id": "sen-2237795",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 200,
+        "data": "2024-09-08",
+        "fornecedor": "Auto Posto Eldorado Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=130145"
+      },
+      {
+        "id": "sen-2239193",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 64.74,
+        "data": "2024-09-02",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2172397514"
+      },
+      {
+        "id": "sen-2239192",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 185,
+        "data": "2024-09-02",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=4436028445"
+      },
+      {
+        "id": "sen-2240948",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 500,
+        "data": "2024-09-02",
+        "fornecedor": "M Mendes Lima",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=17975"
+      },
+      {
+        "id": "sen-2235929",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 80,
+        "data": "2024-09-02",
+        "fornecedor": "Diamante Comercio e Derivados de Petróleo Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=13993"
+      },
+      {
+        "id": "sen-2235930",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-09-02",
+        "fornecedor": "Posto Ponta Negra Com. Var. de Comb. Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=38298"
+      },
+      {
+        "id": "sen-2235927",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-08-30",
+        "fornecedor": "POSTO TOCANTINS LTDA.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=7567"
+      },
+      {
+        "id": "sen-2235924",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-08-29",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=34281"
+      },
+      {
+        "id": "sen-2235468",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 5000,
+        "data": "2024-08-26",
+        "fornecedor": "CM7 Serviços de Comunicações Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1141"
+      },
+      {
+        "id": "sen-2235926",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 326.08,
+        "data": "2024-08-24",
+        "fornecedor": "W A de Arruda Comércio",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=195123"
+      },
+      {
+        "id": "sen-2235925",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-08-23",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2742"
+      },
+      {
+        "id": "sen-2235310",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 20000,
+        "data": "2024-08-22",
+        "fornecedor": "Plutão da Amazônia Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=1073"
+      },
+      {
+        "id": "sen-2235330",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-08-22",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=12883"
+      },
+      {
+        "id": "sen-2235294",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-08-20",
+        "fornecedor": "Auto Posto Eldorado Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=44575"
+      },
+      {
+        "id": "sen-2234948",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 1420,
+        "data": "2024-08-19",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=32988"
+      },
+      {
+        "id": "sen-2234949",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 2580,
+        "data": "2024-08-19",
+        "fornecedor": "Rádio Difusora do Amazonas Ltda.",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=32988"
+      },
+      {
+        "id": "sen-2235292",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-08-19",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=33555"
+      },
+      {
+        "id": "sen-2234951",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 225.06,
+        "data": "2024-08-17",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=11822"
+      },
+      {
+        "id": "sen-2234950",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 210.01,
+        "data": "2024-08-16",
+        "fornecedor": "P. Certa Torquato",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=118410"
+      },
+      {
+        "id": "sen-2234687",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 300,
+        "data": "2024-08-14",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=19635"
+      },
+      {
+        "id": "sen-2234686",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-08-13",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=47962"
+      },
+      {
+        "id": "sen-2234523",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-08-07",
+        "fornecedor": "Auto Posto Eldorado Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=725"
+      },
+      {
+        "id": "sen-2234521",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 50,
+        "data": "2024-08-06",
+        "fornecedor": "A L X Comercio de Combustíveis Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=832611"
+      },
+      {
+        "id": "sen-2235609",
+        "descricao": "Divulgação da atividade parlamentar",
+        "valor": 500,
+        "data": "2024-08-01",
+        "fornecedor": "M Mendes Lima",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=13862"
+      },
+      {
+        "id": "sen-2233940",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 150,
+        "data": "2024-08-01",
+        "fornecedor": "Portela Auto Posto Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=8391"
+      },
+      {
+        "id": "sen-2233948",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-07-31",
+        "fornecedor": "Auto Posto Raquel Ltda",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=679"
+      },
+      {
+        "id": "sen-2233947",
+        "descricao": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+        "valor": 100,
+        "data": "2024-07-30",
+        "fornecedor": "Gontijo Comércio de Combustível",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=170151"
+      },
+      {
+        "id": "sen-2237286",
+        "descricao": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+        "valor": 784.06,
+        "data": "2024-07-29",
+        "fornecedor": "Aerotur Serviços",
+        "linkOriginal": "https://www12.senado.leg.br/transparencia?recibo=2167498611"
+      }
+    ]
+  }
+]

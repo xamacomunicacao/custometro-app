@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "220714",
+    "nome": "Adail Filho",
+    "partido": "MDB",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+    "despesas": [
+      {
+        "id": "385604-nw4qp",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-04-01",
+        "fornecedor": "A F L COMERCIO DE DERIVADOS DE PETROLEO",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080894"
+      },
+      {
+        "id": "43304-ygbzl",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 230.03,
+        "data": "2026-04-01",
+        "fornecedor": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080726"
+      },
+      {
+        "id": "24122-i9xao",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-04-01",
+        "fornecedor": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080886"
+      },
+      {
+        "id": "36430-z6225",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 469.49,
+        "data": "2026-02-01",
+        "fornecedor": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8047013"
+      },
+      {
+        "id": "43598-w68qk",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "ARENA PETROLEO REVENDA DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092649"
+      },
+      {
+        "id": "181782-rim2s",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 250,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO DUBLIM LTDA - ME",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076345"
+      },
+      {
+        "id": "2448-kx46l",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 456.94,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8055059"
+      },
+      {
+        "id": "30411-aooni",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 475.06,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8097889"
+      },
+      {
+        "id": "31289-3n1jw",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 215.95,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO GASPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084847"
+      },
+      {
+        "id": "11647-lxws7",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 346.2,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO PARQUE DEZ LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8063720"
+      },
+      {
+        "id": "180107-cymfg",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 240.03,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO SAMAUMA LTDA  ME",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076291"
+      },
+      {
+        "id": "1371705-yntq8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "AUTOPOSTO SANTOS DUMONT LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076321"
+      },
+      {
+        "id": "1422468-mf193",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-05-01",
+        "fornecedor": "AUTOPOSTO SANTOS DUMONT LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107863"
+      },
+      {
+        "id": "142602-la0fa",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 495.91,
+        "data": "2026-01-01",
+        "fornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8039677"
+      },
+      {
+        "id": "37897-nl3ih",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 225.07,
+        "data": "2026-02-01",
+        "fornecedor": "COPEVE COMERCIO DE PETROLEO E SERVICOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8057478"
+      },
+      {
+        "id": "2081972-x8gro",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 133.8,
+        "data": "2026-05-01",
+        "fornecedor": "D F COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107868"
+      },
+      {
+        "id": "2083142-falyh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 133,
+        "data": "2026-05-01",
+        "fornecedor": "D F COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107869"
+      },
+      {
+        "id": "2083618-meooz",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 133.8,
+        "data": "2026-05-01",
+        "fornecedor": "D F COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107871"
+      },
+      {
+        "id": "2083631-ksapa",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200.7,
+        "data": "2026-05-01",
+        "fornecedor": "D F COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107872"
+      },
+      {
+        "id": "2085193-1greq",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 133.8,
+        "data": "2026-05-01",
+        "fornecedor": "D F COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107873"
+      },
+      {
+        "id": "2085675-7f85q",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200.7,
+        "data": "2026-05-01",
+        "fornecedor": "D F COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107870"
+      },
+      {
+        "id": "799328-p0fah",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200.05,
+        "data": "2026-01-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8041567"
+      },
+      {
+        "id": "800164-zaelo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-01-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8046999"
+      },
+      {
+        "id": "800545-5c1el",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-02-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8048931"
+      },
+      {
+        "id": "802194-xpxb9",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-02-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8055063"
+      },
+      {
+        "id": "803598-q1ijh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 358.18,
+        "data": "2026-03-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8057483"
+      },
+      {
+        "id": "804166-x0zbi",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 463,
+        "data": "2026-03-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8063718"
+      },
+      {
+        "id": "805398-qipnx",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-03-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066831"
+      },
+      {
+        "id": "52939-itup7",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-04-01",
+        "fornecedor": "DENYS ANTONIO ABDALA TUMA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8075538"
+      },
+      {
+        "id": "53432-xpmnd",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "DENYS ANTONIO ABDALA TUMA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080731"
+      },
+      {
+        "id": "75843-a9jje",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 311.06,
+        "data": "2026-04-01",
+        "fornecedor": "DIAMANTE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8097904"
+      },
+      {
+        "id": "21611-izfpm",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-04-01",
+        "fornecedor": "DRA DERIVADO DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080908"
+      },
+      {
+        "id": "28692-4qpox",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-05-01",
+        "fornecedor": "DRA DERIVADO DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107864"
+      },
+      {
+        "id": "18140-6gcjq",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-04-01",
+        "fornecedor": "ET COMERCIO E CONTRUCOES LTDA ME",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084837"
+      },
+      {
+        "id": "198860-g15kx",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "EXPRESS PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080936"
+      },
+      {
+        "id": "199122-eoauo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-04-01",
+        "fornecedor": "EXPRESS PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082785"
+      },
+      {
+        "id": "160767-vkig2",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 250,
+        "data": "2026-04-01",
+        "fornecedor": "EXPRESS PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082788"
+      },
+      {
+        "id": "63477-trkw8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-05-01",
+        "fornecedor": "EXPRESS PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107879"
+      },
+      {
+        "id": "1395540-9f5j8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 484.34,
+        "data": "2026-03-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066827"
+      },
+      {
+        "id": "1409216-2qxtx",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 244.41,
+        "data": "2026-03-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8072496"
+      },
+      {
+        "id": "1432660-tnhoo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084867"
+      },
+      {
+        "id": "1433707-c68wp",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084854"
+      },
+      {
+        "id": "1454922-4c3lh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 538.89,
+        "data": "2026-05-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8097884"
+      },
+      {
+        "id": "1461667-nmeo1",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 303,
+        "data": "2026-05-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8097881"
+      },
+      {
+        "id": "33321-gi1nw",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "FORTE COMERCIO DERIVADOS DE PETROLEO LTDA II",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8070642"
+      },
+      {
+        "id": "7417-esve2",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 250,
+        "data": "2026-05-01",
+        "fornecedor": "FOX COMERCIO E TRANSPORTE DE COMBUSTIVEL LTDA (MARREIRO)",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107874"
+      },
+      {
+        "id": "225195-84jdn",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-01-01",
+        "fornecedor": "FRANCISCO G LOPES & CIA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8041563"
+      },
+      {
+        "id": "250912-qe5e8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 212.01,
+        "data": "2026-03-01",
+        "fornecedor": "FRANCISCO G LOPES & CIA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8063798"
+      },
+      {
+        "id": "6539-kovo8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 206.39,
+        "data": "2026-01-01",
+        "fornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8039678"
+      },
+      {
+        "id": "89798-070mh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "GURGEL COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8057498"
+      },
+      {
+        "id": "9084-2x8pj",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 224.61,
+        "data": "2026-03-01",
+        "fornecedor": "M M COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8063733"
+      },
+      {
+        "id": "898209-09wui",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "MANAUS POSTO V8 LTDA.",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8077158"
+      },
+      {
+        "id": "37208-9kxlv",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "MONTEIRO E VALE COMERCIO DE COMBUSTIVEL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080919"
+      },
+      {
+        "id": "38699-5e7br",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-04-01",
+        "fornecedor": "MONTEIRO E VALE COMERCIO DE COMBUSTIVEL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082807"
+      },
+      {
+        "id": "10095-1gvvl",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080898"
+      },
+      {
+        "id": "12937-1hebv",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-05-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8100258"
+      },
+      {
+        "id": "4985-60hc9",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-04-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076350"
+      },
+      {
+        "id": "6176-mqqlh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-04-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084862"
+      },
+      {
+        "id": "6851-23616",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8057503"
+      },
+      {
+        "id": "7053-gg1oz",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-03-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8057521"
+      },
+      {
+        "id": "76862-wvsfw",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-02-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8054075"
+      },
+      {
+        "id": "78944-lfcui",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-03-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8070638"
+      },
+      {
+        "id": "82361-9nknh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-01-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8044083"
+      },
+      {
+        "id": "82667-dcfwd",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-01-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8044070"
+      },
+      {
+        "id": "82884-494st",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8048930"
+      },
+      {
+        "id": "83826-eow9j",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-02-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8054073"
+      },
+      {
+        "id": "88206-bsscj",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-04-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092642"
+      },
+      {
+        "id": "9857-86bd7",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076339"
+      },
+      {
+        "id": "2248-0nf5p",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-04-01",
+        "fornecedor": "MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076308"
+      },
+      {
+        "id": "18576-oqkeo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 327.29,
+        "data": "2026-01-01",
+        "fornecedor": "PETROMAY DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8039680"
+      },
+      {
+        "id": "9033-qo8c7",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 312.96,
+        "data": "2026-04-01",
+        "fornecedor": "PETROMAY DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082801"
+      },
+      {
+        "id": "605221-dl0i3",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "PETROVAN DERIVADOS DE PETROLEO LTDA.",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084831"
+      },
+      {
+        "id": "645979-f8qf1",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-05-01",
+        "fornecedor": "PETROVAN DERIVADOS DE PETROLEO LTDA.",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8107866"
+      },
+      {
+        "id": "21961-b6xcf",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-01-01",
+        "fornecedor": "POSTO TOCANTINS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8044081"
+      },
+      {
+        "id": "25017-xl5qt",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 199.63,
+        "data": "2026-02-01",
+        "fornecedor": "POSTO TOCANTINS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8055049"
+      },
+      {
+        "id": "90365-lvlk3",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 396.73,
+        "data": "2026-03-01",
+        "fornecedor": "SP POSTO - COMERCIO DE COMBUSTIVEIS PARA VEICULO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8063737"
+      },
+      {
+        "id": "76752-xma7f",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "TW PETROLEO COMERCIO DE COMBUSTIVEL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8084846"
+      },
+      {
+        "id": "396732-p33a1",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 207.95,
+        "data": "2026-01-01",
+        "fornecedor": "TW PETROLEO TARUMA COMERCIO",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8044077"
+      },
+      {
+        "id": "5941-3r4ld",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 67750,
+        "data": "2026-03-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8070101.pdf"
+      },
+      {
+        "id": "6058-9h6li",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 39500,
+        "data": "2026-05-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8095722.pdf"
+      },
+      {
+        "id": "6059-dx2nv",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 51250,
+        "data": "2026-05-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8095725.pdf"
+      },
+      {
+        "id": "1544-tbozq",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 6000,
+        "data": "2026-01-01",
+        "fornecedor": "NSF TRANSPORTES ME LTDA.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8039681.pdf"
+      },
+      {
+        "id": "1570-npobv",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 6000,
+        "data": "2026-02-01",
+        "fornecedor": "NSF TRANSPORTES ME LTDA.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8050000.pdf"
+      },
+      {
+        "id": "1596-6hgj4",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 6000,
+        "data": "2026-03-01",
+        "fornecedor": "NSF TRANSPORTES ME LTDA.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8064528.pdf"
+      },
+      {
+        "id": "1621-mvaku",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 6000,
+        "data": "2026-04-01",
+        "fornecedor": "NSF TRANSPORTES ME LTDA.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8080720.pdf"
+      },
+      {
+        "id": "1653-08d9j",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 6000,
+        "data": "2026-05-01",
+        "fornecedor": "NSF TRANSPORTES ME LTDA.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8096925.pdf"
+      },
+      {
+        "id": "29452-567u3",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2025-12-01",
+        "fornecedor": "AMAZON COMBUSTIVEIS PARA VEICULOS E CONSTRUCOES LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8034983"
+      },
+      {
+        "id": "795318-0930w",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 474.03,
+        "data": "2025-12-01",
+        "fornecedor": "DAT COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8034984"
+      },
+      {
+        "id": "67316-gn0tv",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 309.64,
+        "data": "2025-12-01",
+        "fornecedor": "GONTIJO COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8034982"
+      },
+      {
+        "id": "5725-k74uv",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 84000,
+        "data": "2025-12-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2025/8035042.pdf"
+      },
+      {
+        "id": "1519-lea3f",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 6000,
+        "data": "2025-12-01",
+        "fornecedor": "NSF TRANSPORTES ME LTDA.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2025/8027241.pdf"
+      }
+    ]
+  },
+  {
+    "id": "220715",
+    "nome": "Amom Mandel",
+    "partido": "REPUBLICANOS",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
+    "despesas": []
+  },
+  {
+    "id": "74090",
+    "nome": "Átila Lins",
+    "partido": "PSD",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+    "despesas": [
+      {
+        "id": "100687-0zqvv",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 2000,
+        "data": "2026-02-01",
+        "fornecedor": "Agencia Norte - AgNorte",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8066993.pdf"
+      },
+      {
+        "id": "104308-cy5jx",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 2000,
+        "data": "2026-04-01",
+        "fornecedor": "Agencia Norte - AgNorte",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8094257.pdf"
+      },
+      {
+        "id": "94173-x9a81",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 2000,
+        "data": "2026-01-01",
+        "fornecedor": "Agencia Norte - AgNorte",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8040407.pdf"
+      },
+      {
+        "id": "17-378rl",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-01-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8040403.pdf"
+      },
+      {
+        "id": "35-7rr9h",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-02-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8052282.pdf"
+      },
+      {
+        "id": "51-6g4h4",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-03-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8066994.pdf"
+      },
+      {
+        "id": "76-59sgg",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-04-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8084873.pdf"
+      },
+      {
+        "id": "87-4458r",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 7000,
+        "data": "2026-05-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8098912.pdf"
+      },
+      {
+        "id": "1272300525086-dyhsz",
+        "descricao": "PASSAGEM AÉREA - REEMBOLSO",
+        "valor": 3898.07,
+        "data": "2026-03-01",
+        "fornecedor": "Gol Linhas Aereas S.A.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8087271.pdf"
+      },
+      {
+        "id": "1272301996336-wtyht",
+        "descricao": "PASSAGEM AÉREA - REEMBOLSO",
+        "valor": 3478.68,
+        "data": "2026-04-01",
+        "fornecedor": "Gol Linhas Aereas S.A.",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8103288.pdf"
+      },
+      {
+        "id": "9572275021471-bnw8j",
+        "descricao": "PASSAGEM AÉREA - REEMBOLSO",
+        "valor": 3223.07,
+        "data": "2026-02-01",
+        "fornecedor": "Latam Linhas Aéreas S.A",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8063327.pdf"
+      },
+      {
+        "id": "9572283770415-jie0q",
+        "descricao": "PASSAGEM AÉREA - REEMBOLSO",
+        "valor": 5414.81,
+        "data": "2026-04-01",
+        "fornecedor": "Latam Linhas Aéreas S.A",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8110292.pdf"
+      },
+      {
+        "id": "9572288244171-8tbb7",
+        "descricao": "PASSAGEM AÉREA - REEMBOLSO",
+        "valor": 3810.07,
+        "data": "2026-05-01",
+        "fornecedor": "Latam Linhas Aéreas S.A",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8110296.pdf"
+      },
+      {
+        "id": "002708128-cmyuf",
+        "descricao": "TELEFONIA",
+        "valor": 641.76,
+        "data": "2026-01-01",
+        "fornecedor": "Telefônica Brasil S.A. VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8041131.pdf"
+      },
+      {
+        "id": "002724464-we674",
+        "descricao": "TELEFONIA",
+        "valor": 1200,
+        "data": "2026-01-01",
+        "fornecedor": "Telefônica Brasil S.A. VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8041133.pdf"
+      },
+      {
+        "id": "003276716-33n9x",
+        "descricao": "TELEFONIA",
+        "valor": 1254.36,
+        "data": "2026-02-01",
+        "fornecedor": "Telefônica Brasil S.A. VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8055526.pdf"
+      },
+      {
+        "id": "003871117-yk9rz",
+        "descricao": "TELEFONIA",
+        "valor": 1224.78,
+        "data": "2026-03-01",
+        "fornecedor": "TELEFONICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8101071.pdf"
+      },
+      {
+        "id": "005006083-34ex4",
+        "descricao": "TELEFONIA",
+        "valor": 1224.78,
+        "data": "2026-04-01",
+        "fornecedor": "TELEFONICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8100000.pdf"
+      },
+      {
+        "id": "005032447-z7a3u",
+        "descricao": "TELEFONIA",
+        "valor": 665.2,
+        "data": "2026-05-01",
+        "fornecedor": "TELEFONICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8100004.pdf"
+      },
+      {
+        "id": "465-pold6",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 10500,
+        "data": "2026-03-01",
+        "fornecedor": "AMAZONAVES TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8075349.pdf"
+      },
+      {
+        "id": "5750-xrdw4",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 16500,
+        "data": "2026-01-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8040409.pdf"
+      },
+      {
+        "id": "5765-ddhm0",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 25000,
+        "data": "2026-01-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8045728.pdf"
+      },
+      {
+        "id": "5802-2ha7g",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 22000,
+        "data": "2026-01-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8048591.pdf"
+      },
+      {
+        "id": "5875-2n42p",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 22000,
+        "data": "2026-02-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8058716.pdf"
+      },
+      {
+        "id": "5876-w0j89",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 19000,
+        "data": "2026-02-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8058710.pdf"
+      },
+      {
+        "id": "5989-0zslw",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 15900,
+        "data": "2026-03-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8081552.pdf"
+      },
+      {
+        "id": "5990-u4heg",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 17500,
+        "data": "2026-03-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8081554.pdf"
+      },
+      {
+        "id": "6047-o814k",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 35000,
+        "data": "2026-04-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8094156.pdf"
+      },
+      {
+        "id": "6125-wa0d9",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 35000,
+        "data": "2026-04-01",
+        "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8109322.pdf"
+      }
+    ]
+  },
+  {
+    "id": "204572",
+    "nome": "Capitão Alberto Neto",
+    "partido": "PL",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+    "despesas": [
+      {
+        "id": "01-2026-rye6z",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 3200,
+        "data": "2026-01-01",
+        "fornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8047254.pdf"
+      },
+      {
+        "id": "022026-f7tjm",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 3200,
+        "data": "2026-02-01",
+        "fornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8059215.pdf"
+      },
+      {
+        "id": "04/2026-og7l1",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 3322,
+        "data": "2026-04-01",
+        "fornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8099705.pdf"
+      },
+      {
+        "id": "sn-hm4k9",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 3200,
+        "data": "2026-03-01",
+        "fornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8078639.pdf"
+      },
+      {
+        "id": "7247-7kvqn",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 341.6,
+        "data": "2026-03-01",
+        "fornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8061317"
+      },
+      {
+        "id": "562416-i7pkt",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-02-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8059290"
+      },
+      {
+        "id": "565289-2e7uk",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 350.08,
+        "data": "2026-03-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8061191"
+      },
+      {
+        "id": "568984-jew9m",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-03-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8067877"
+      },
+      {
+        "id": "571388-oozm0",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 489.66,
+        "data": "2026-03-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078664"
+      },
+      {
+        "id": "574562-mod6a",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 240,
+        "data": "2026-04-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078670"
+      },
+      {
+        "id": "576569-ft4cl",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-04-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8081951"
+      },
+      {
+        "id": "582229-mq3ab",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-05-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8099967"
+      },
+      {
+        "id": "585206-p8spw",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-05-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8099968"
+      },
+      {
+        "id": "586934-fcl61",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-05-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8103809.pdf"
+      },
+      {
+        "id": "587436-i613o",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 492.17,
+        "data": "2026-05-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8105885"
+      },
+      {
+        "id": "1337296-tffku",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-02-01",
+        "fornecedor": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8047249"
+      },
+      {
+        "id": "1117097-4c8kf",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "079 - MELHOR 03 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8059287"
+      },
+      {
+        "id": "501688-w1gya",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 430.05,
+        "data": "2026-03-01",
+        "fornecedor": "14 - QL 14 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078676"
+      },
+      {
+        "id": "41119-36nfr",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 380,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO AEROPORTO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8086818"
+      },
+      {
+        "id": "191703-0tdxq",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 350,
+        "data": "2026-04-01",
+        "fornecedor": "JT COMERCIO DE DERIVADOS DE PETROLEO LTDA (POSTO 210)",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8099965"
+      },
+      {
+        "id": "00001935-idh3e",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 10000,
+        "data": "2026-01-01",
+        "fornecedor": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8047258.pdf"
+      },
+      {
+        "id": "00001943-hgane",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 10000,
+        "data": "2026-02-01",
+        "fornecedor": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8061311.pdf"
+      },
+      {
+        "id": "32-spm3i",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 8000,
+        "data": "2026-01-01",
+        "fornecedor": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8039411.pdf"
+      },
+      {
+        "id": "39-8hbjl",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 8000,
+        "data": "2026-02-01",
+        "fornecedor": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8052696.pdf"
+      },
+      {
+        "id": "48-8ac1u",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 8000,
+        "data": "2026-03-01",
+        "fornecedor": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8069171.pdf"
+      },
+      {
+        "id": "57-74kno",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 8000,
+        "data": "2026-04-01",
+        "fornecedor": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8086812.pdf"
+      },
+      {
+        "id": "65-085uc",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 8000,
+        "data": "2026-05-01",
+        "fornecedor": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8099710.pdf"
+      },
+      {
+        "id": "00000956938537-o8l6e",
+        "descricao": "TELEFONIA",
+        "valor": 1299.99,
+        "data": "2026-04-01",
+        "fornecedor": "TELEFONICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8098112.pdf"
+      },
+      {
+        "id": "004155349-agel6",
+        "descricao": "TELEFONIA",
+        "valor": 1299.99,
+        "data": "2026-01-01",
+        "fornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8047276.pdf"
+      },
+      {
+        "id": "005126778-7tdw2",
+        "descricao": "TELEFONIA",
+        "valor": 1299.99,
+        "data": "2026-02-01",
+        "fornecedor": "Telefônica Brasil S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8059224.pdf"
+      },
+      {
+        "id": "006094055-qpdfe",
+        "descricao": "TELEFONIA",
+        "valor": 1299.99,
+        "data": "2026-03-01",
+        "fornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8078680.pdf"
+      },
+      {
+        "id": "12-2025-ua72u",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 3200,
+        "data": "2025-12-01",
+        "fornecedor": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8036646.pdf"
+      },
+      {
+        "id": "540612-bj66i",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400.02,
+        "data": "2025-12-01",
+        "fornecedor": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8027827"
+      },
+      {
+        "id": "42231-yrubc",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2025-12-01",
+        "fornecedor": "AUTO POSTO AEROPORTO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8027831"
+      },
+      {
+        "id": "00001926-uaweh",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 10000,
+        "data": "2025-12-01",
+        "fornecedor": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3333/2026/8036758.pdf"
+      }
+    ]
+  },
+  {
+    "id": "220712",
+    "nome": "Fausto Jr.",
+    "partido": "UNIÃO",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220712.jpg",
+    "despesas": [
+      {
+        "id": "564163-fgk1l",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 282.05,
+        "data": "2026-03-01",
+        "fornecedor": "021 - 204 SUL CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066457"
+      },
+      {
+        "id": "4222287-689fb",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 130.02,
+        "data": "2026-03-01",
+        "fornecedor": "035 - CONTAGEM - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064070"
+      },
+      {
+        "id": "1515524-1329r",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "038 - GUANABARA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8096200"
+      },
+      {
+        "id": "617590-4qdrg",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 416.55,
+        "data": "2026-02-01",
+        "fornecedor": "051 - 313 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8047423"
+      },
+      {
+        "id": "630459-605ek",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 513.05,
+        "data": "2026-03-01",
+        "fornecedor": "051 - 313 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8063827"
+      },
+      {
+        "id": "706880-pxzid",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 220.04,
+        "data": "2026-02-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8053985"
+      },
+      {
+        "id": "708650-92n00",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 217,
+        "data": "2026-02-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8053968"
+      },
+      {
+        "id": "709123-t1rkg",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-02-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8050908"
+      },
+      {
+        "id": "711653-pl2me",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-02-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066455"
+      },
+      {
+        "id": "712239-zcbrh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-02-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8053914"
+      },
+      {
+        "id": "717777-3okw2",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 241.67,
+        "data": "2026-03-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066446"
+      },
+      {
+        "id": "718449-ak5m0",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8067735"
+      },
+      {
+        "id": "719442-z7wag",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078790"
+      },
+      {
+        "id": "727269-856t2",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 299.3,
+        "data": "2026-04-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092408"
+      },
+      {
+        "id": "727502-0mji3",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 171.04,
+        "data": "2026-04-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8096195"
+      },
+      {
+        "id": "731387-qi8rc",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 452.28,
+        "data": "2026-05-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092416"
+      },
+      {
+        "id": "731450-ogtx5",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 235.22,
+        "data": "2026-05-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092400"
+      },
+      {
+        "id": "505591-sgfk7",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-04-01",
+        "fornecedor": "069 - PENISULA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080876"
+      },
+      {
+        "id": "3089906-ollag",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 218.56,
+        "data": "2026-02-01",
+        "fornecedor": "071 - LAGO NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064013"
+      },
+      {
+        "id": "2100066-zb2qh",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "080 - MELHOR 09 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064053"
+      },
+      {
+        "id": "2123533-t32kg",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 114.89,
+        "data": "2026-03-01",
+        "fornecedor": "080 - MELHOR 09 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078787"
+      },
+      {
+        "id": "1185276-dh43z",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "084 - MELHOR 05 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082458"
+      },
+      {
+        "id": "531-1a35o",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 269.49,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO AGUAS CLARAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8075084"
+      },
+      {
+        "id": "1140844-kmjqc",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 149.69,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064049"
+      },
+      {
+        "id": "1159346-xsi73",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066450"
+      },
+      {
+        "id": "1266787-dactv",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 163.08,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8053975"
+      },
+      {
+        "id": "1272705-4coi5",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 185.85,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064004"
+      },
+      {
+        "id": "89967-jgwfa",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8070345"
+      },
+      {
+        "id": "92384-83mhm",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082451"
+      },
+      {
+        "id": "94324-kbfrz",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092766"
+      },
+      {
+        "id": "13375-x6bpm",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 365.51,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066467"
+      },
+      {
+        "id": "20887-p5czq",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-04-01",
+        "fornecedor": "AUTO POSTO JK LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078804"
+      },
+      {
+        "id": "94756-s9u0b",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 120.81,
+        "data": "2026-05-01",
+        "fornecedor": "AUTO POSTO MARK SOBRADINHO II LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8096202"
+      },
+      {
+        "id": "1048735-4wg86",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 140.01,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO SOF NORTE LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078778"
+      },
+      {
+        "id": "40770-pzcjo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 195,
+        "data": "2026-03-01",
+        "fornecedor": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080857"
+      },
+      {
+        "id": "632756-jhzrj",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 294.13,
+        "data": "2026-02-01",
+        "fornecedor": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8053925"
+      },
+      {
+        "id": "636780-aa8dv",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 226.86,
+        "data": "2026-03-01",
+        "fornecedor": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078775"
+      },
+      {
+        "id": "637012-8dh2y",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 192.3,
+        "data": "2026-03-01",
+        "fornecedor": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066459"
+      },
+      {
+        "id": "639343-pmsnj",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 220.64,
+        "data": "2026-03-01",
+        "fornecedor": "EIXINHO L 212 NORTE COM DE COM E DERIV LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078780"
+      },
+      {
+        "id": "86709-y6v2a",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-03-01",
+        "fornecedor": "GMCM COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064036"
+      },
+      {
+        "id": "13947-es4vo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-02-01",
+        "fornecedor": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8053919"
+      },
+      {
+        "id": "39292-lz591",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-01-01",
+        "fornecedor": "GOES COMBUSTIVEIS, LUBRIFICANTES E GLP LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8041918"
+      },
+      {
+        "id": "59400-qv3o3",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 119.68,
+        "data": "2026-04-01",
+        "fornecedor": "POSTO 208 NORTE COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8096206"
+      },
+      {
+        "id": "66370-b3gws",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 138.85,
+        "data": "2026-04-01",
+        "fornecedor": "POSTO COMERCIAL UNB LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8096205"
+      },
+      {
+        "id": "34563-ekjl9",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 201.63,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078784"
+      },
+      {
+        "id": "38089-o22gu",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 160.57,
+        "data": "2026-05-01",
+        "fornecedor": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8096188"
+      },
+      {
+        "id": "18441-x4cub",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 271.31,
+        "data": "2026-04-01",
+        "fornecedor": "POSTO DE COMBUSTIVEIS ABADIANIA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092443"
+      },
+      {
+        "id": "28811-1hnoo",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 129.91,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO ITAMARATY LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078809"
+      },
+      {
+        "id": "527138-3ni67",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 211.8,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO ITAMARATY LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064093"
+      },
+      {
+        "id": "79592-qv52t",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 224.64,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO ITAMARATY LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064021"
+      },
+      {
+        "id": "178082-49uwn",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-03-01",
+        "fornecedor": "PRIME DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8064042"
+      },
+      {
+        "id": "18341-kfsod",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "PRIME DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078800"
+      },
+      {
+        "id": "122347-hr8fz",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 150,
+        "data": "2026-04-01",
+        "fornecedor": "ROTA 411 COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092396"
+      },
+      {
+        "id": "233489-c8asj",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-03-01",
+        "fornecedor": "ROTA 411 COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8058153"
+      },
+      {
+        "id": "36522-jsi37",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-04-01",
+        "fornecedor": "ROTA 411 COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080888"
+      },
+      {
+        "id": "30021-hgqf6",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-01-01",
+        "fornecedor": "ROTA COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8041915"
+      },
+      {
+        "id": "25-ijwrl",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 4500,
+        "data": "2026-01-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8049756.pdf"
+      },
+      {
+        "id": "38-1dnvz",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 4500,
+        "data": "2026-02-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8058209.pdf"
+      },
+      {
+        "id": "54-1qtqc",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 4500,
+        "data": "2026-03-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8072423.pdf"
+      },
+      {
+        "id": "75-t4p6v",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-04-01",
+        "fornecedor": "N.C. DE SOUZA LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8087135.pdf"
+      },
+      {
+        "id": "1-219wg",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 6500,
+        "data": "2026-01-01",
+        "fornecedor": "NEXOGEST SERVIÇOS DE PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8041961.pdf"
+      },
+      {
+        "id": "2-pinjw",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 6500,
+        "data": "2026-02-01",
+        "fornecedor": "NEXOGEST SERVIÇOS DE PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8050925.pdf"
+      },
+      {
+        "id": "3-1w71m",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 6500,
+        "data": "2026-03-01",
+        "fornecedor": "NEXOGEST SERVIÇOS DE PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8075087.pdf"
+      },
+      {
+        "id": "4-nd9uj",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 6500,
+        "data": "2026-04-01",
+        "fornecedor": "NEXOGEST SERVIÇOS DE PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8096177.pdf"
+      },
+      {
+        "id": "1235-qatll",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 25000,
+        "data": "2026-01-01",
+        "fornecedor": "RICO TAXI AEREO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8042192.pdf"
+      },
+      {
+        "id": "1470-33cqk",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 20000,
+        "data": "2026-02-01",
+        "fornecedor": "TAXI AEREO VALE DO MADEIRA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8055477.pdf"
+      },
+      {
+        "id": "1568-r8fut",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 20000,
+        "data": "2026-05-01",
+        "fornecedor": "TAXI AEREO VALE DO MADEIRA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8092380.pdf"
+      },
+      {
+        "id": "28874-jhuwl",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 3986.66,
+        "data": "2026-04-01",
+        "fornecedor": "PANTANAL VEÍCULOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8102272.pdf"
+      },
+      {
+        "id": "28875-u5azc",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 1690,
+        "data": "2026-04-01",
+        "fornecedor": "PANTANAL VEÍCULOS LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2026/8093394.pdf"
+      },
+      {
+        "id": "1397-3rbh9",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 5850,
+        "data": "2025-12-01",
+        "fornecedor": "TAXI AEREO VALE DO MADEIRA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3515/2025/8035116.pdf"
+      }
+    ]
+  },
+  {
+    "id": "235869",
+    "nome": "João Carlos",
+    "partido": "REPUBLICANOS",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
+    "despesas": []
+  },
+  {
+    "id": "220713",
+    "nome": "Saullo Vianna",
+    "partido": "MDB",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220713.jpg",
+    "despesas": [
+      {
+        "id": "97172-yxs2r",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 255.24,
+        "data": "2026-05-01",
+        "fornecedor": "AUTO POSTO ELDORADO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8101578"
+      },
+      {
+        "id": "19460-0ypkb",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO JK LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8068624"
+      },
+      {
+        "id": "23819-i7mj8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 375.17,
+        "data": "2026-03-01",
+        "fornecedor": "AUTO POSTO JK LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8075154"
+      },
+      {
+        "id": "238811-ima36",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 395.49,
+        "data": "2026-04-01",
+        "fornecedor": "PORTELA AUTO POSTO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8090883"
+      },
+      {
+        "id": "30486-qoyfe",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 254.96,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO 212 SUL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8075143"
+      },
+      {
+        "id": "32182-w1751",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 455.81,
+        "data": "2026-05-01",
+        "fornecedor": "POSTO 212 SUL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8093097"
+      },
+      {
+        "id": "15353-6r4fv",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 300,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO DE COMBUSTIVEIS 309 SUL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8068621"
+      },
+      {
+        "id": "175128-ieub5",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 489.86,
+        "data": "2026-04-01",
+        "fornecedor": "POSTO DE COMBUSTIVEIS EPIA CANDANGOLANDIA LTDA.",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076395"
+      },
+      {
+        "id": "33560-m5qkp",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 296.08,
+        "data": "2026-05-01",
+        "fornecedor": "POSTO RESERVA INGLESA COMERCIO DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8101572"
+      },
+      {
+        "id": "61-k43uc",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 1500,
+        "data": "2026-03-01",
+        "fornecedor": "DIDATA INFORMÁTICA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8070908.pdf"
+      },
+      {
+        "id": "81-hkozp",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 1500,
+        "data": "2026-04-01",
+        "fornecedor": "DIDATA INFORMÁTICA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8084915.pdf"
+      },
+      {
+        "id": "13-q73um",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 16000,
+        "data": "2026-04-01",
+        "fornecedor": "FLAVIA MAIA RIBEIRO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8084900.pdf"
+      },
+      {
+        "id": "30-d0pxn",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 20000,
+        "data": "2026-04-01",
+        "fornecedor": "Grafica e Editora Raphaela LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8083536.pdf"
+      },
+      {
+        "id": "412-bd5fl",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-03-01",
+        "fornecedor": "Rádio Difusora do Amazonas LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8071046.pdf"
+      },
+      {
+        "id": "512-e15b9",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 5000,
+        "data": "2026-04-01",
+        "fornecedor": "Rádio Difusora do Amazonas LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8087208.pdf"
+      },
+      {
+        "id": "00000920243081-a9s2e",
+        "descricao": "TELEFONIA",
+        "valor": 1794.9,
+        "data": "2026-03-01",
+        "fornecedor": "TELEFÔNICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8073468.pdf"
+      },
+      {
+        "id": "00000938828946-46uzk",
+        "descricao": "TELEFONIA",
+        "valor": 1794.9,
+        "data": "2026-04-01",
+        "fornecedor": "TELEFONICA BRASIL S/A - VIVO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3674/2026/8092866.pdf"
+      },
+      {
+        "id": "6430-fva6h",
+        "descricao": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "valor": 110,
+        "data": "2026-03-01",
+        "fornecedor": "SERVICO NACIONAL DE APREND. COMERCIAL",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8067603"
+      }
+    ]
+  },
+  {
+    "id": "204557",
+    "nome": "Sidney Leite",
+    "partido": "PSD",
+    "cargo": "Deputado Federal",
+    "fotoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
+    "despesas": [
+      {
+        "id": "7266-tlhks",
+        "descricao": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "valor": 588.4,
+        "data": "2026-03-01",
+        "fornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8067592"
+      },
+      {
+        "id": "1649763-ltmqt",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 158.37,
+        "data": "2026-02-01",
+        "fornecedor": "026 - P WAY - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8056339"
+      },
+      {
+        "id": "3825630-m8ehq",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "048 - REC 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8056364"
+      },
+      {
+        "id": "707322-hskyu",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 162.04,
+        "data": "2026-02-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8088899"
+      },
+      {
+        "id": "714758-vgldl",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-03-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8071042"
+      },
+      {
+        "id": "718695-ct8rt",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 235.08,
+        "data": "2026-03-01",
+        "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8071030"
+      },
+      {
+        "id": "889082-4g3qc",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 50,
+        "data": "2026-04-01",
+        "fornecedor": "064 - SAM 2 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8083278"
+      },
+      {
+        "id": "1098419-cp4p8",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 253.17,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO CINCO ESTRELAS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8056318"
+      },
+      {
+        "id": "6620-tjjmx",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO JK LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8056374"
+      },
+      {
+        "id": "1388-b12ec",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-01-01",
+        "fornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - RIACHO",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8050954"
+      },
+      {
+        "id": "2003-hq3w4",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 100,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - RIACHO",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8056295"
+      },
+      {
+        "id": "2483-s8v5z",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 225.52,
+        "data": "2026-02-01",
+        "fornecedor": "AUTO POSTO VIA ESTRUTURAL LTDA - RIACHO",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8056287"
+      },
+      {
+        "id": "64142-tcn07",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 170.03,
+        "data": "2026-03-01",
+        "fornecedor": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8083233"
+      },
+      {
+        "id": "86113-3ops7",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 223.84,
+        "data": "2026-03-01",
+        "fornecedor": "MM COMERCIAL DE COMBUSTIVEIS LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8082872"
+      },
+      {
+        "id": "5866-nzdkd",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 233.9,
+        "data": "2026-03-01",
+        "fornecedor": "POSTO 212 SUL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8083259"
+      },
+      {
+        "id": "47450-pavin",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 273.16,
+        "data": "2026-04-01",
+        "fornecedor": "POSTO SAO ROQUE DA VENDINHA LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8083217"
+      },
+      {
+        "id": "137649-8vi69",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 400,
+        "data": "2026-01-01",
+        "fornecedor": "TORRES COMERCIO DE COMBUSTIVEL LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8088973"
+      },
+      {
+        "id": "222766-ht29n",
+        "descricao": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "valor": 200,
+        "data": "2026-02-01",
+        "fornecedor": "V8 COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+        "linkOriginal": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8088948"
+      },
+      {
+        "id": "121-rskd2",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 3000,
+        "data": "2026-01-01",
+        "fornecedor": "GOMO COMUNICAÇÂO LTDA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8047895.pdf"
+      },
+      {
+        "id": "11-83s6l",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 3000,
+        "data": "2026-03-01",
+        "fornecedor": "PRIME MIDEA E MARKETING",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8071060.pdf"
+      },
+      {
+        "id": "8-fwbfv",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 3000,
+        "data": "2026-02-01",
+        "fornecedor": "PRIME MIDEA E MARKETING",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8063130.pdf"
+      },
+      {
+        "id": "1447-tgc1f",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 40000,
+        "data": "2026-01-01",
+        "fornecedor": "TAXI AEREO VALE DO MADEIRA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8047999.pdf"
+      },
+      {
+        "id": "1515-wiyd2",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 55000,
+        "data": "2026-03-01",
+        "fornecedor": "TAXI AEREO VALE DO MADEIRA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8074970.pdf"
+      },
+      {
+        "id": "1546-ksaeb",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "valor": 65000,
+        "data": "2026-03-01",
+        "fornecedor": "TAXI AEREO VALE DO MADEIRA",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8088832.pdf"
+      },
+      {
+        "id": "192-d9jlh",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 7000,
+        "data": "2026-01-01",
+        "fornecedor": "JOEL LINHARES DE OLIVEIRA 41754069134",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8042607.pdf"
+      },
+      {
+        "id": "197-315xq",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 5626.63,
+        "data": "2026-02-01",
+        "fornecedor": "JOEL LINHARES DE OLIVEIRA 41754069134",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8050034.pdf"
+      },
+      {
+        "id": "198-1wj8f",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 7000,
+        "data": "2026-02-01",
+        "fornecedor": "JOEL LINHARES DE OLIVEIRA 41754069134",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8047931.pdf"
+      },
+      {
+        "id": "202-ou55b",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 7000,
+        "data": "2026-03-01",
+        "fornecedor": "JOEL LINHARES DE OLIVEIRA 41754069134",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8067611.pdf"
+      },
+      {
+        "id": "212-rm18p",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 7000,
+        "data": "2026-04-01",
+        "fornecedor": "JOEL LINHARES DE OLIVEIRA 41754069134",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8081816.pdf"
+      },
+      {
+        "id": "219-nmo20",
+        "descricao": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "valor": 7000,
+        "data": "2026-05-01",
+        "fornecedor": "JOEL LINHARES DE OLIVEIRA 41754069134",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8100968.pdf"
+      },
+      {
+        "id": "108-8e5jx",
+        "descricao": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "valor": 10000,
+        "data": "2025-12-01",
+        "fornecedor": "TABAJARA RODRIGUES MORENO",
+        "linkOriginal": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2025/8018206.pdf"
+      }
+    ]
+  }
+]

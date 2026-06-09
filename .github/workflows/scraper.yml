@@ -1,0 +1,54 @@
+name: Robô de Raspagem da Transparência
+
+on:
+  schedule:
+    # GitHub Actions usa UTC (Horário Universal Coordenado). 
+    # Brasília é UTC-3. Portanto, adicionamos 3 horas ao horário de Brasília.
+    
+    # 07:30 Horário de Brasília (10:30 UTC)
+    - cron: '30 10 * * *'
+    
+    # 15:30 Horário de Brasília (18:30 UTC)
+    - cron: '30 18 * * *'
+
+    # 22:15 Horário de Brasília (01:15 UTC do dia seguinte)
+    - cron: '15 1 * * *'
+    
+  workflow_dispatch: # Permite disparar o robô manualmente através de um botão no GitHub
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Baixar Código do Repositório (Checkout)
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js (Ambiente de Programação)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar Dependências e Biblioteca Puppeteer
+        run: npm install
+
+      - name: Instalar Navegador Chrome Interno do Puppeteer
+        run: npx puppeteer browsers install chrome
+
+      - name: Gerar Conexão Prisma com Banco de Dados
+        run: npx prisma generate
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}
+
+      - name: Iniciar Raspagem da CMM (Câmara Municipal de Manaus)
+        run: npx tsx scripts/scraper/cmm_puppeteer.mjs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}
+
+      - name: Iniciar Raspagem da ALEAM (Assembleia Legislativa do Amazonas)
+        run: npx tsx scripts/scraper/aleam_puppeteer.mjs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}

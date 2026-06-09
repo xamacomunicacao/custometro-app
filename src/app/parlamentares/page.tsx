@@ -1,7 +1,7 @@
 import ListaPoliticosClient from "@/components/ListaPoliticosClient";
 import { getTodosPoliticos } from "@/services/api";
 
-export const revalidate = 3600; // Cache de 1 hora
+export const dynamic = 'force-dynamic';
 
 export default async function ParlamentaresPage() {
   try {

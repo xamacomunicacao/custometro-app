@@ -1,6 +1,7 @@
 import React from "react";
 import { getVereadores } from "@/services/api";
 import ListaPoliticosClient from "@/components/ListaPoliticosClient";
+export const dynamic = 'force-dynamic';
 
 export default async function CamaraMunicipalPage() {
   try {

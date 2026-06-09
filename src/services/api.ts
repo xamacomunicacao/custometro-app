@@ -36,11 +36,7 @@ export const getVereadores = async (): Promise<Politico[]> => {
 };
 
 export const getTodosPoliticos = async (): Promise<Politico[]> => {
-  const senadores = await getSenadores();
-  const federais = await getDeputadosFederais();
-  const estaduais = await getDeputadosEstaduais();
-  const vereadores = await getVereadores();
-  return [...senadores, ...federais, ...estaduais, ...vereadores];
+  return await prisma.politico.findMany({ include: { despesas: true } });
 };
 
 export async function getPoliticoById(id: string): Promise<Politico | undefined> {

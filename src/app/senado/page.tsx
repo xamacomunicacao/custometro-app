@@ -1,6 +1,7 @@
 import React from "react";
 import { getSenadores } from "@/services/api";
 import ListaPoliticosClient from "@/components/ListaPoliticosClient";
+export const dynamic = 'force-dynamic';
 
 export default async function SenadoPage() {
   try {

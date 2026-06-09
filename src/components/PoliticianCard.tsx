@@ -53,7 +53,15 @@ export default function PoliticianCard({ politico }: PoliticianCardProps) {
       </div>
 
       {/* Button */}
-      <Link href={`/senado/${politico.id}`} className="w-full">
+      <Link 
+        href={`/${
+          politico.cargo.toLowerCase().includes('senador') ? 'senado' : 
+          politico.cargo.toLowerCase().includes('federal') ? 'deputados-federais' : 
+          politico.cargo.toLowerCase().includes('vereador') ? 'camara-municipal' : 
+          'deputados-estaduais'
+        }/${politico.id}`} 
+        className="w-full"
+      >
         <motion.button 
           whileHover={{ backgroundColor: "rgba(255, 0, 85, 0.05)", borderColor: "#FF0055" }}
           whileTap={{ scale: 0.97 }}

@@ -147,13 +147,11 @@ export default function Home() {
     fetchTop();
   }, [selectedCargo]);
 
-  const chartData = topPoliticos.length > 0 ? topPoliticos.map((p, idx) => ({
+  const chartData = topPoliticos.map((p, idx) => ({
     name: p.nome,
     value: p.totalGastoMes || 0.01, // 0.01 se for 0 para não quebrar proporção do SVG
     color: colors[idx] || "#ccc"
-  })) : [
-    { name: 'Nenhum dado', value: 1, color: "#ccc" },
-  ];
+  }));
 
 
   return (
@@ -394,7 +392,7 @@ export default function Home() {
                   <h3 className="text-center font-bold text-[#1C2331] text-[20px] mb-8 leading-snug">Gráfico representativo de<br/>gastos parlamentares</h3>
                   
                   <div className="text-center mb-6 flex flex-col items-center">
-                    <p className="text-[14px] font-bold text-gray-800">Maiores Gastos - Junho de 2025</p>
+                    <p className="text-[14px] font-bold text-gray-800 capitalize">Maiores Gastos - {new Intl.DateTimeFormat('pt-BR', { month: 'long', year: 'numeric' }).format(new Date())}</p>
                     <p className="text-[12px] text-gray-500 mb-2">{cargosData.find(c => c.id === selectedCargo)?.label1} {cargosData.find(c => c.id === selectedCargo)?.label2}</p>
                   </div>
 
@@ -412,23 +410,37 @@ export default function Home() {
                   </Link>
                   
                   {/* Gráfico Pizza Animado e Interativo */}
-                  <div className="relative">
+                  <div className="relative min-h-[250px] flex items-center justify-center">
                     {isLoading && (
-                      <div className="absolute inset-0 flex items-center justify-center bg-white/50 z-10">
+                      <div className="absolute inset-0 flex items-center justify-center bg-white/70 z-10 rounded-full">
                         <div className="w-8 h-8 border-4 border-[#FF0055] border-t-transparent rounded-full animate-spin"></div>
                       </div>
                     )}
-                    <AnimatedPieChart data={chartData} />
+                    
+                    {!isLoading && chartData.length === 0 ? (
+                      <div className="flex flex-col items-center justify-center text-gray-400">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="mb-3 opacity-30">
+                          <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                          <line x1="8" y1="21" x2="16" y2="21"></line>
+                          <line x1="12" y1="17" x2="12" y2="21"></line>
+                        </svg>
+                        <p className="text-[14px] font-bold text-gray-500">Aguardando prestação</p>
+                        <p className="text-[12px]">Nenhum gasto neste mês</p>
+                      </div>
+                    ) : (
+                      <div className="w-full">
+                        <AnimatedPieChart data={chartData} />
+                        <div className="flex justify-center flex-wrap gap-x-6 gap-y-2 mt-10 text-[10px] font-bold text-gray-500">
+                           {chartData.map((d, i) => (
+                              <span key={i} className="flex items-center gap-2">
+                                <div className="w-3.5 h-2.5 rounded-[2px]" style={{backgroundColor: d.color}}></div> 
+                                {d.name.split(' ').slice(0, 2).join(' ')}
+                              </span>
+                           ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
-                 
-                 <div className="flex justify-center flex-wrap gap-x-6 gap-y-2 mt-10 text-[10px] font-bold text-gray-500">
-                    {chartData.map((d, i) => (
-                       <span key={i} className="flex items-center gap-2">
-                         <div className="w-3.5 h-2.5 rounded-[2px]" style={{backgroundColor: d.color}}></div> 
-                         {d.name.split(' ').slice(0, 2).join(' ')}
-                       </span>
-                    ))}
-                 </div>
 
                  {/* Carrossel Pointers */}
                  <div className="flex justify-center items-center gap-1.5 mt-6">

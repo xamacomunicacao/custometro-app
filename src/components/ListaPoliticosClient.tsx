@@ -16,8 +16,13 @@ const arrowVariants = {
   },
 } as const;
 
-export default function ListaPoliticosClient({ initialPoliticos, title, subtitle }: { initialPoliticos: Politico[], title: string, subtitle: string }) {
-  const [politicos, setPoliticos] = useState(initialPoliticos);
+export default function ListaPoliticosClient({ initialPoliticos, title, subtitle, defaultCasa }: { initialPoliticos: Politico[], title: string, subtitle: string, defaultCasa?: string }) {
+  // Inicializa o estado já filtrando pela casa padrão (se existir)
+  const [politicos, setPoliticos] = useState(
+    defaultCasa ? initialPoliticos.filter(p => p.cargo === defaultCasa) : initialPoliticos
+  );
+  
+  // O subtítulo rosa agora pode iniciar preenchido se tivermos um defaultCasa, ou aguarda o pesquisar
   const [dynamicSubtitle, setDynamicSubtitle] = useState("");
 
   const handleSearch = (filters: any) => {
@@ -136,7 +141,7 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
       {/* ===================== CONTEÚDO PRINCIPAL — Fundo branco/cinza claro ===================== */}
       <section className="relative z-20 max-w-6xl mx-auto px-6 md:px-12 py-16">
         {/* Barra de Filtros */}
-        <FilterBar onSearch={handleSearch} politicosDisponiveis={initialPoliticos} />
+        <FilterBar onSearch={handleSearch} politicosDisponiveis={initialPoliticos} defaultCasa={defaultCasa} />
 
         {/* Títulos de Cota */}
         <div className="mb-12 mt-10">

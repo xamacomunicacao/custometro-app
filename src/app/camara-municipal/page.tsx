@@ -1,21 +1,22 @@
 import React from "react";
-import { getVereadores } from "@/services/api";
+import { getTodosPoliticos } from "@/services/api";
 import ListaPoliticosClient from "@/components/ListaPoliticosClient";
 export const dynamic = 'force-dynamic';
 
 export default async function CamaraMunicipalPage() {
   try {
-    const politicos = await getVereadores();
+    const politicos = await getTodosPoliticos();
 
     return (
       <ListaPoliticosClient 
         initialPoliticos={politicos} 
         title="Controle de Cota Parlamentar" 
         subtitle="Câmara Municipal de Manaus" 
+        defaultCasa="Vereador"
       />
     );
   } catch (error) {
-    console.error("Erro ao buscar Vereadores:", error);
+    console.error("Erro ao buscar politicos:", error);
     return (
       <ListaPoliticosClient 
         initialPoliticos={[]} 

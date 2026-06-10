@@ -1,21 +1,22 @@
 import React from "react";
-import { getDeputadosEstaduais } from "@/services/api";
+import { getTodosPoliticos } from "@/services/api";
 import ListaPoliticosClient from "@/components/ListaPoliticosClient";
 export const dynamic = 'force-dynamic';
 
 export default async function DeputadosEstaduaisPage() {
   try {
-    const politicos = await getDeputadosEstaduais();
+    const politicos = await getTodosPoliticos();
 
     return (
       <ListaPoliticosClient 
         initialPoliticos={politicos} 
         title="Controle de Cota Parlamentar" 
         subtitle="Assembleia Legislativa do Amazonas" 
+        defaultCasa="Deputado Estadual"
       />
     );
   } catch (error) {
-    console.error("Erro ao buscar Deputados Estaduais:", error);
+    console.error("Erro ao buscar politicos:", error);
     return (
       <ListaPoliticosClient 
         initialPoliticos={[]} 

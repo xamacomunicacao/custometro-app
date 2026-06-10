@@ -6,12 +6,14 @@ import { Politico } from "@/services/api";
 
 export default function FilterBar({ 
   onSearch, 
-  politicosDisponiveis = [] 
+  politicosDisponiveis = [],
+  defaultCasa = ""
 }: { 
   onSearch: (filters: any) => void,
-  politicosDisponiveis?: Politico[] 
+  politicosDisponiveis?: Politico[],
+  defaultCasa?: string
 }) {
-  const [casa, setCasa] = useState("");
+  const [casa, setCasa] = useState(defaultCasa);
   const [parlamentar, setParlamentar] = useState("");
   const [ano, setAno] = useState("");
   const [mes, setMes] = useState("");

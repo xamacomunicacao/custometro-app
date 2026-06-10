@@ -2,14 +2,26 @@ import 'dotenv/config';
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 puppeteer.use(StealthPlugin());
-import prisma from '../../src/lib/prisma.ts';
+import { PrismaClient } from '@prisma/client';
+import crypto from 'crypto';
+
+const prisma = new PrismaClient();
 
 async function scrapeALEAM() {
   console.log("Iniciando Robô Puppeteer - ALEAM...");
   const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   
-  await page.goto('https://www.aleam.gov.br/transparencia/controle-de-cota-parlamentar/', { waitUntil: 'networkidle2' });
+  page.setDefaultNavigationTimeout(90000);
+  page.setDefaultTimeout(90000);
+
+  try {
+     await page.goto('https://www.aleam.gov.br/transparencia/controle-de-cota-parlamentar/', { waitUntil: 'networkidle2' });
+  } catch(e) {
+     console.log("Portal da ALEAM caiu ou demorou demais:", e.message);
+     await browser.close();
+     return;
+  }
 
   // Pega todos os deputados do select
   const deputados = await page.evaluate(() => {
@@ -22,7 +34,7 @@ async function scrapeALEAM() {
 
   console.log(`Encontrados ${deputados.length} deputados na ALEAM.`);
   
-  // Pegar mês passado (Ex: Maio de 2026 -> valor 05)
+  // Pegar mês passado
   const currentDate = new Date();
   currentDate.setMonth(currentDate.getMonth() - 1);
   const mesValue = (currentDate.getMonth() + 1).toString().padStart(2, '0');
@@ -40,61 +52,66 @@ async function scrapeALEAM() {
       await page.select('select#dados', dep.value);
       
       await Promise.all([
-        page.waitForNavigation({ waitUntil: 'networkidle2' }),
+        page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 }).catch(() => {}),
         page.click('button[type="submit"]')
       ]);
 
-      // Extrai o valor do HTML de resultado
-      const resultado = await page.evaluate(() => {
-        // A ALEAM mostra o total gasto numa div de classe .cont-result-label__valor
+      // Extrai os valores detalhados
+      const itensDespesa = await page.evaluate(() => {
         const labels = Array.from(document.querySelectorAll('.cont-result-label__title'));
         const valorSpan = Array.from(document.querySelectorAll('.cont-result-label__valor'));
         
-        let gasto = 0;
+        let itens = [];
         for(let i = 0; i < labels.length; i++) {
-          if(labels[i] && labels[i].textContent.includes('Total de Despesa')) {
+          if(labels[i] && !labels[i].textContent.includes('Total de Despesa')) {
              if(valorSpan[i]) {
                 const text = valorSpan[i].textContent.replace('R$', '').replace('.', '').replace(',', '.').trim();
-                gasto = parseFloat(text) || 0;
+                const valor = parseFloat(text) || 0;
+                if(valor > 0) {
+                    itens.push({ descricao: labels[i].textContent.trim(), valor });
+                }
              }
           }
         }
-        return gasto;
+        return itens;
       });
 
-      console.log(`- Gasto: R$ ${resultado}`);
+      console.log(`- ${itensDespesa.length} rubricas de gasto extraídas.`);
       
-      // Encontra o politico (precisa ter sido criado pelo Seed)
-      const depId = dep.nome.toLowerCase().replace(/[^a-z0-9]/g, '-');
-      let politico = await prisma.politico.findUnique({
-          where: { id: depId }
+      let politico = await prisma.politico.findFirst({
+          where: { cargo: 'Deputado Estadual', nome: { contains: dep.nome.split(' ')[0] } }
       });
 
       if (!politico) {
-          console.log(`Politico ${dep.nome} não encontrado no Seed do banco! Pular.`);
+          console.log(`Deputado ${dep.nome} não encontrado no Seed! Pular.`);
           continue;
       }
 
       const mesAno = `${mesValue}/${anoValue}`;
-      const despesaId = `${depId}-ceap-${mesAno}`.substring(0, 100);
 
-      await prisma.despesa.upsert({
-          where: { id: despesaId },
-          update: {
-              valor: resultado
-          },
-          create: {
-              id: despesaId,
-              descricao: 'Total Despesas CEAP',
-              valor: resultado,
-              data: mesAno,
-              fornecedor: 'ALEAM Portal',
-              politicoId: politico.id
-          }
-      });
+      for(const item of itensDespesa) {
+          const uuidHash = crypto.createHash('md5').update(`${politico.id}-${item.descricao}-${item.valor}`).digest('hex');
+          const despesaId = `${politico.id}-ceap-${mesAno}-${uuidHash}`.substring(0, 100);
+
+          await prisma.despesa.upsert({
+              where: { id: despesaId },
+              update: {
+                  valor: item.valor
+              },
+              create: {
+                  id: despesaId,
+                  descricao: item.descricao,
+                  valor: item.valor,
+                  data: mesAno,
+                  fornecedor: 'ALEAM Portal',
+                  linkOriginal: 'https://www.aleam.gov.br/transparencia/controle-de-cota-parlamentar/',
+                  politicoId: politico.id
+              }
+          });
+      }
 
     } catch (e) {
-      console.log(`Erro ao extrair ${dep.nome}: ${e.message}`);
+      console.log(`Erro isolado ao extrair ${dep.nome}: ${e.message}`);
     }
   }
 

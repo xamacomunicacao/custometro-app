@@ -2,20 +2,39 @@ import 'dotenv/config';
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 puppeteer.use(StealthPlugin());
-import prisma from '../../src/lib/prisma.ts';
+import { PrismaClient } from '@prisma/client';
+import crypto from 'crypto';
+
+const prisma = new PrismaClient();
 
 async function scrapeCMM() {
   console.log("Iniciando Robô Puppeteer - CMM...");
   const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   
-  await page.goto('https://www.cmm.am.gov.br/transparencia/', { waitUntil: 'networkidle2' });
+  // Timeout agressivo de 90s para compensar lentidao do site gov
+  page.setDefaultNavigationTimeout(90000);
+  page.setDefaultTimeout(90000);
+
+  try {
+    await page.goto('https://www.cmm.am.gov.br/transparencia/', { waitUntil: 'networkidle2' });
+  } catch(e) {
+    console.log("Portal da CMM caiu ou demorou demais para responder o Index:", e.message);
+    await browser.close();
+    return;
+  }
 
   // Na CMM as opções carregam via Ajax, precisamos esperar o select preencher
-  await page.waitForFunction(() => {
-    const options = document.querySelectorAll('select#ceap-filtro-parlamentar-sigae option');
-    return options.length > 1 && !options[0].textContent.includes('Carregando');
-  }, { timeout: 30000 });
+  try {
+      await page.waitForFunction(() => {
+        const options = document.querySelectorAll('select#ceap-filtro-parlamentar-sigae option');
+        return options.length > 1 && !options[0].textContent.includes('Carregando');
+      }, { timeout: 60000 });
+  } catch (e) {
+      console.log("Erro: O combo de vereadores da CMM não carregou a tempo:", e.message);
+      await browser.close();
+      return;
+  }
 
   const vereadores = await page.evaluate(() => {
     const options = Array.from(document.querySelectorAll('select#ceap-filtro-parlamentar-sigae option'));
@@ -54,30 +73,38 @@ async function scrapeCMM() {
       await page.click('#btn-ceap-pesquisar-sigae');
       
       // Aguarda a tabela carregar ou recarregar
-      await page.waitForTimeout(3000); 
+      try {
+         await page.waitForTimeout(5000); 
+      } catch(e){}
 
-      // Extrai os valores
-      const despesas = await page.evaluate(() => {
+      // Extrai os valores individuais
+      const itensDespesa = await page.evaluate(() => {
         const rows = Array.from(document.querySelectorAll('#ceap-sigae-table tbody tr'));
-        let totalGasto = 0;
+        let itens = [];
         
         for (const row of rows) {
           const cells = row.querySelectorAll('td');
           // Ignora mensagens de tabela vazia
           if (cells.length > 5) { 
-            const valorText = cells[5].textContent.replace('R$', '').replace('.', '').replace(',', '.').trim();
+            const dataText = cells[0]?.textContent?.trim() || '';
+            const fornecedorText = cells[1]?.textContent?.trim() || '';
+            const descricaoText = cells[3]?.textContent?.trim() || '';
+            const valorText = cells[5]?.textContent?.replace('R$', '').replace('.', '').replace(',', '.').trim() || '0';
             const valor = parseFloat(valorText) || 0;
-            totalGasto += valor;
+            if (valor > 0) {
+               itens.push({ descricao: descricaoText, valor, data: dataText, fornecedor: fornecedorText });
+            }
           }
         }
-        return totalGasto;
+        return itens;
       });
 
-      console.log(`- Gasto Total: R$ ${despesas}`);
+      console.log(`- Encontrados ${itensDespesa.length} itens de despesa.`);
 
       const verId = ver.nome.toLowerCase().replace(/[^a-z0-9]/g, '-');
-      let politico = await prisma.politico.findUnique({
-          where: { id: verId }
+      // Tenta achar com id direto ou parcial
+      let politico = await prisma.politico.findFirst({
+          where: { cargo: 'Vereador', nome: { contains: ver.nome.split(' ')[0] } }
       });
 
       if (!politico) {
@@ -86,25 +113,34 @@ async function scrapeCMM() {
       }
 
       const mesAno = `${mesValue}/${anoValue}`;
-      const despesaId = `${verId}-ceap-${mesAno}`.substring(0, 100);
+      
+      // Se não houver despesas, pula a criacao
+      if (itensDespesa.length === 0) continue;
 
-      await prisma.despesa.upsert({
-          where: { id: despesaId },
-          update: {
-              valor: despesas
-          },
-          create: {
-              id: despesaId,
-              descricao: 'Total Despesas CEAP',
-              valor: despesas,
-              data: mesAno,
-              fornecedor: 'CMM Portal',
-              politicoId: politico.id
-          }
-      });
+      // Injeta item por item no banco
+      for (const item of itensDespesa) {
+          const uuidHash = crypto.createHash('md5').update(`${politico.id}-${item.descricao}-${item.valor}-${item.data}`).digest('hex');
+          const despesaId = `${politico.id}-ceap-${mesAno}-${uuidHash}`.substring(0, 100);
+
+          await prisma.despesa.upsert({
+              where: { id: despesaId },
+              update: {
+                  valor: item.valor
+              },
+              create: {
+                  id: despesaId,
+                  descricao: item.descricao,
+                  valor: item.valor,
+                  data: item.data || mesAno,
+                  fornecedor: item.fornecedor || 'CMM Portal',
+                  linkOriginal: 'https://www.cmm.am.gov.br/transparencia/',
+                  politicoId: politico.id
+              }
+          });
+      }
 
     } catch (e) {
-      console.log(`Erro ao extrair ${ver.nome}: ${e.message}`);
+      console.log(`Erro crítico ao extrair ${ver.nome}: ${e.message}`);
     }
   }
 

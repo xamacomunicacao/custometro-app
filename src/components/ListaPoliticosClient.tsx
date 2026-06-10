@@ -24,6 +24,7 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
   
   // O subtítulo rosa agora pode iniciar preenchido se tivermos um defaultCasa, ou aguarda o pesquisar
   const [dynamicSubtitle, setDynamicSubtitle] = useState("");
+  const [hasSearched, setHasSearched] = useState(false);
 
   const handleSearch = (filters: any) => {
     let result = initialPoliticos;
@@ -46,6 +47,7 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
     
     setDynamicSubtitle(newSubtitle);
     setPoliticos(result);
+    setHasSearched(true);
   };
 
   return (
@@ -156,15 +158,21 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
         </div>
 
         {/* Grid de Parlamentares */}
-        {politicos.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            {politicos.map((politico, index) => (
-              <PoliticianCard key={`${politico.id}-${index}`} politico={politico} />
-            ))}
-          </div>
+        {hasSearched ? (
+          politicos.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+              {politicos.map((politico, index) => (
+                <PoliticianCard key={`${politico.id}-${index}`} politico={politico} />
+              ))}
+            </div>
+          ) : (
+            <div className="bg-white border border-gray-100 rounded-lg p-12 text-center text-gray-500 shadow-sm">
+              Nenhum parlamentar encontrado para esta pesquisa.
+            </div>
+          )
         ) : (
-          <div className="bg-white border border-gray-100 rounded-lg p-12 text-center text-gray-500 shadow-sm">
-            Nenhum parlamentar encontrado para esta pesquisa.
+          <div className="bg-transparent py-12 text-center text-gray-400">
+            {/* Estado Inicial Vazio conforme solicitado */}
           </div>
         )}
       </section>

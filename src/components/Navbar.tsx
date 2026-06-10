@@ -15,7 +15,7 @@ export default function Navbar() {
     { name: "Quem somos", href: "/quem-somos" },
     { name: "CEAP'S", href: "/#ceaps" },
     { name: "Parlamentares", href: "/parlamentares" },
-    { name: "Metodologia", href: "/#metodologia" }
+    { name: "Metodologia", href: "/metodologia" }
   ];
 
   return (
@@ -73,7 +73,7 @@ export default function Navbar() {
             Parlamentares
           </Link>
           <Link
-            href="/#metodologia"
+            href="/metodologia"
             className="text-gray-200 hover:text-accent transition-colors pb-1 border-b-2 border-transparent hover:border-accent"
           >
             Metodologia

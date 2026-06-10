@@ -172,7 +172,12 @@ export default function DetalhesClient({ politico, despesas }: { politico: Polit
                   <div className="text-[#1C2331] font-medium text-[15px] md:text-[16px]">
                     {formatCurrency(despesa.valor)}
                   </div>
-                  <a href="https://www.camara.leg.br/transparencia/gastos-parlamentares/" target="_blank" rel="noopener noreferrer" className="w-full md:w-auto">
+                  <a 
+                    href={despesa.linkOriginal ? despesa.linkOriginal : "https://www.camara.leg.br/transparencia/gastos-parlamentares/"} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="w-full md:w-auto"
+                  >
                     <button className="bg-[#FF0055] hover:bg-[#D40047] text-white font-semibold text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center">
                       Consulte
                     </button>

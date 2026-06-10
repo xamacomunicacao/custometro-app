@@ -172,9 +172,11 @@ export default function DetalhesClient({ politico, despesas }: { politico: Polit
                   <div className="text-[#1C2331] font-medium text-[15px] md:text-[16px]">
                     {formatCurrency(despesa.valor)}
                   </div>
-                  <button className="bg-[#FF0055] hover:bg-[#D40047] text-white font-semibold text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center">
-                    Consulte
-                  </button>
+                  <a href="https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/" target="_blank" rel="noopener noreferrer" className="w-full md:w-auto">
+                    <button className="bg-[#FF0055] hover:bg-[#D40047] text-white font-semibold text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center">
+                      Consulte
+                    </button>
+                  </a>
                 </div>
               </div>
             ))
@@ -191,9 +193,9 @@ export default function DetalhesClient({ politico, despesas }: { politico: Polit
             <span className="text-[#1C2331]">Total de gastos: </span>
             <AnimatedCurrency value={total} />
           </h3>
-          <button className="mt-4 text-[#1C2331] text-[16px] font-medium hover:text-[#FF0055] transition-colors flex items-center gap-2 mx-auto">
+          <a href="https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/" target="_blank" rel="noopener noreferrer" className="mt-4 text-[#1C2331] text-[16px] font-medium hover:text-[#FF0055] transition-colors flex items-center justify-center gap-2 mx-auto">
             Transparência dos Dados <span>&gt;&gt;</span>
-          </button>
+          </a>
         </div>
 
       </section>

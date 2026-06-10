@@ -18,13 +18,19 @@ const arrowVariants = {
 
 export default function ListaPoliticosClient({ initialPoliticos, title, subtitle }: { initialPoliticos: Politico[], title: string, subtitle: string }) {
   const [politicos, setPoliticos] = useState(initialPoliticos);
+  const [dynamicSubtitle, setDynamicSubtitle] = useState("");
 
   const handleSearch = (filters: any) => {
     let result = initialPoliticos;
     
     // Filtrar por Casa Legislativa (Cargo)
+    let newSubtitle = "";
     if (filters.casa) {
       result = result.filter(s => s.cargo === filters.casa);
+      if (filters.casa === "Senador") newSubtitle = "Senado Federal";
+      else if (filters.casa === "Deputado Federal") newSubtitle = "Câmara Federal";
+      else if (filters.casa === "Deputado Estadual") newSubtitle = "Assembleia Legislativa (ALEAM)";
+      else if (filters.casa === "Vereador") newSubtitle = "Câmara Municipal de Manaus";
     }
     
     // Filtrar por Nome do Parlamentar
@@ -33,6 +39,7 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
       result = result.filter(s => s.nome.toLowerCase().includes(pLower));
     }
     
+    setDynamicSubtitle(newSubtitle);
     setPoliticos(result);
   };
 
@@ -134,11 +141,13 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
         {/* Títulos de Cota */}
         <div className="mb-12 mt-10">
           <h2 className="text-[32px] md:text-[38px] font-black text-[#1C2331] tracking-tight leading-none">
-            {title}
+            {title === "Todos os Parlamentares" ? "Controle de Cota Parlamentar" : title}
           </h2>
-          <h3 className="text-[20px] md:text-[24px] font-extrabold text-[#FF0055] mt-1.5">
-            {subtitle}
-          </h3>
+          {dynamicSubtitle && (
+            <h3 className="text-[20px] md:text-[24px] font-extrabold text-[#FF0055] mt-1.5">
+              {dynamicSubtitle}
+            </h3>
+          )}
         </div>
 
         {/* Grid de Parlamentares */}

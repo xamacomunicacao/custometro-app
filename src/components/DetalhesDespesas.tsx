@@ -178,18 +178,31 @@ export default function DetalhesDespesas({ politico, despesas }: { politico: Pol
         </p>
 
         {/* Lista de Despesas */}
-        <div className="w-full flex flex-col gap-3 mb-12">
+        <div className="w-full flex flex-col gap-2 mb-12">
           {despesas.length > 0 ? (
-            despesas.map((despesa, index) => (
+            Object.values(despesas.reduce((acc, curr) => {
+              // Agrupando despesas pela descrição para somar valores de notas pequenas em categorias maiores
+              const key = curr.descricao;
+              if (!acc[key]) {
+                acc[key] = { ...curr };
+              } else {
+                acc[key].valor += curr.valor;
+                // Mantém o primeiro link válido encontrado no grupo caso existam múltiplos
+                if (!acc[key].linkOriginal && curr.linkOriginal) {
+                  acc[key].linkOriginal = curr.linkOriginal;
+                }
+              }
+              return acc;
+            }, {} as Record<string, Despesa>)).map((despesa, index) => (
               <div 
                 key={despesa.id + index} 
-                className="w-full border border-[#FF0055] rounded-md px-6 py-4 flex flex-col md:flex-row items-start md:items-center justify-between bg-white hover:bg-gray-50 transition-colors"
+                className="w-full border border-[#FF0055] rounded-md px-4 py-3 flex flex-col md:flex-row items-start md:items-center justify-between bg-white hover:bg-gray-50 transition-colors"
               >
-                <div className="text-[#1C2331] font-medium text-[15px] md:text-[16px] flex-1 mb-3 md:mb-0">
+                <div className="text-gray-600 font-medium text-[14px] md:text-[15px] flex-1 mb-2 md:mb-0">
                   {despesa.descricao}
                 </div>
-                <div className="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-8 w-full md:w-auto">
-                  <div className="text-[#1C2331] font-medium text-[15px] md:text-[16px]">
+                <div className="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-6 w-full md:w-auto">
+                  <div className="text-gray-600 font-medium text-[14px] md:text-[15px]">
                     {formatCurrency(despesa.valor)}
                   </div>
                   {despesa.linkOriginal ? (
@@ -197,12 +210,12 @@ export default function DetalhesDespesas({ politico, despesas }: { politico: Pol
                       href={despesa.linkOriginal}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="bg-[#FF0055] hover:bg-[#D40047] text-white font-semibold text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center cursor-pointer"
+                      className="bg-[#FF0055] hover:bg-[#D40047] text-white font-medium text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center shadow-sm cursor-pointer"
                     >
                       Consulte
                     </a>
                   ) : (
-                    <button className="bg-[#FF0055] hover:bg-[#D40047] text-white font-semibold text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center opacity-50 cursor-not-allowed">
+                    <button className="bg-[#FF0055] hover:bg-[#D40047] text-white font-medium text-[13px] px-6 py-2 rounded transition-colors w-full md:w-auto text-center shadow-sm opacity-50 cursor-not-allowed">
                       Consulte
                     </button>
                   )}

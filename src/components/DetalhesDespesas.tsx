@@ -121,7 +121,7 @@ export default function DetalhesDespesas({ politico, despesas }: { politico: Pol
                   <motion.span variants={arrowVariants} className="inline-block font-bold">&gt;&gt;</motion.span>
                 </motion.button>
               </Link>
-              <Link href="/#ceaps">
+              <Link href="/metodologia">
                 <motion.button
                   whileHover={{ scale: 1.03, y: -2, borderColor: "#FF0055", backgroundColor: "rgba(255,0,85,0.1)", boxShadow: "0 0 15px rgba(255,0,85,0.3)" }}
                   whileTap={{ scale: 0.96 }}

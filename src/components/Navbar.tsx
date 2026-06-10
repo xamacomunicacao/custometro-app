@@ -13,7 +13,7 @@ export default function Navbar() {
   const menuLinks = [
     { name: "Início", href: "/" },
     { name: "Quem somos", href: "/quem-somos" },
-    { name: "CEAP'S", href: "/#ceaps" },
+    { name: "CEAP'S", href: "/metodologia" },
     { name: "Parlamentares", href: "/parlamentares" },
     { name: "Metodologia", href: "/metodologia" }
   ];
@@ -61,7 +61,7 @@ export default function Navbar() {
             Quem somos
           </Link>
           <Link
-            href="/#ceaps"
+            href="/metodologia"
             className="text-gray-200 hover:text-accent transition-colors pb-1 border-b-2 border-transparent hover:border-accent"
           >
             CEAP&apos;S

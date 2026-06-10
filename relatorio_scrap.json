@@ -1,10 +1,10 @@
 {
-  "data_execucao": "2026-06-10T16:13:17.259Z",
+  "data_execucao": "2026-06-10T23:43:01.414Z",
   "status": {
     "Senado": "FALHA",
     "Camara Federal": "FALHA",
-    "ALEAM": "FALHA",
-    "CMM": "FALHA"
+    "ALEAM": "SUCESSO",
+    "CMM": "SUCESSO"
   },
   "erros": [
     {
@@ -14,14 +14,6 @@
     {
       "modulo": "Camara Federal",
       "erro": "Command failed: node \"C:\\Users\\DANIE\\OneDrive\\Área de Trabalho\\Projetos Sites\\Custômetro Cynthia Blink\\custometro-app\\scripts\\scraper\\camara.mjs\""
-    },
-    {
-      "modulo": "ALEAM",
-      "erro": "Command failed: node \"C:\\Users\\DANIE\\OneDrive\\Área de Trabalho\\Projetos Sites\\Custômetro Cynthia Blink\\custometro-app\\scripts\\scraper\\aleam_puppeteer.mjs\""
-    },
-    {
-      "modulo": "CMM",
-      "erro": "Command failed: node \"C:\\Users\\DANIE\\OneDrive\\Área de Trabalho\\Projetos Sites\\Custômetro Cynthia Blink\\custometro-app\\scripts\\scraper\\cmm_puppeteer.mjs\""
     }
   ]
 }

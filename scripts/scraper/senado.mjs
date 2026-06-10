@@ -1,12 +1,8 @@
 import 'dotenv/config';
 import { PrismaClient } from '@prisma/client';
-import { Pool } from 'pg';
-import { PrismaPg } from '@prisma/adapter-pg';
 import axios from 'axios';
 
-const pool = new Pool({ connectionString: process.env.DATABASE_URL });
-const adapter = new PrismaPg(pool);
-const prisma = new PrismaClient({ adapter });
+const prisma = new PrismaClient();
 const SENADO_LEGIS_API = 'https://legis.senado.leg.br/dadosabertos/senador/lista/atual';
 const SENADO_CEAPS_API = 'https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2024';
 

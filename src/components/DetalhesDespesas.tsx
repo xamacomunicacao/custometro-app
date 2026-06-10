@@ -155,7 +155,9 @@ export default function DetalhesDespesas({ politico, despesas }: { politico: Pol
             {politico.nome}
           </h2>
           <h3 className="text-[28px] md:text-[36px] font-black text-[#FF0055] capitalize">
-            {new Intl.DateTimeFormat('pt-BR', { month: 'long', year: 'numeric' }).format(new Date())}
+            {despesas.length > 0 && despesas[0].data 
+              ? new Intl.DateTimeFormat('pt-BR', { month: 'long', year: 'numeric' }).format(new Date(despesas[0].data)) 
+              : "Visão Geral"}
           </h3>
         </div>
 

@@ -41,14 +41,32 @@ jobs:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           DIRECT_URL: ${{ secrets.DIRECT_URL }}
 
+      - name: Iniciar Raspagem do Senado
+        run: node scripts/scraper/senado.mjs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}
+
+      - name: Iniciar Raspagem da Câmara Federal
+        run: node scripts/scraper/camara.mjs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}
+
       - name: Iniciar Raspagem da CMM (Câmara Municipal de Manaus)
-        run: npx tsx scripts/scraper/cmm_puppeteer.mjs
+        run: node scripts/scraper/cmm_puppeteer.mjs
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           DIRECT_URL: ${{ secrets.DIRECT_URL }}
 
       - name: Iniciar Raspagem da ALEAM (Assembleia Legislativa do Amazonas)
-        run: npx tsx scripts/scraper/aleam_puppeteer.mjs
+        run: node scripts/scraper/aleam_puppeteer.mjs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}
+          
+      - name: Sincronizar Fotos e Metadados
+        run: node scripts/scraper/sync_fotos.mjs
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           DIRECT_URL: ${{ secrets.DIRECT_URL }}

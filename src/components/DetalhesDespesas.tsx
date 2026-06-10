@@ -183,10 +183,15 @@ export default function DetalhesDespesas({ politico, despesas }: { politico: Pol
         <div className="w-full flex flex-col gap-2 mb-12">
           {despesas.length > 0 ? (
             Object.values(despesas.reduce((acc, curr) => {
-              // Agrupando despesas pela descrição para somar valores de notas pequenas em categorias maiores
-              const key = curr.descricao;
+              // Limpando "null" ou "undefined" oriundos de falhas nas APIs do Governo
+              let desc = curr.descricao;
+              if (!desc || desc.toLowerCase() === "null" || desc.toLowerCase() === "undefined" || desc.trim() === "") {
+                desc = "Despesa não categorizada pelo Portal de Transparência";
+              }
+              const key = desc;
+              
               if (!acc[key]) {
-                acc[key] = { ...curr };
+                acc[key] = { ...curr, descricao: desc };
               } else {
                 acc[key].valor += curr.valor;
                 // Mantém o primeiro link válido encontrado no grupo caso existam múltiplos

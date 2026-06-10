@@ -16,8 +16,12 @@ export default function FilterBar({
   const [ano, setAno] = useState("");
   const [mes, setMes] = useState("");
 
-  // Nomes únicos para o dropdown de parlamentar baseado nos políticos visíveis
-  const nomesUnicos = Array.from(new Set(politicosDisponiveis.map(p => p.nome))).sort();
+  // Filtrar os parlamentares disponíveis baseado na Casa Legislativa selecionada
+  const politicosFiltrados = casa 
+    ? politicosDisponiveis.filter(p => p.cargo === casa) 
+    : politicosDisponiveis;
+    
+  const nomesUnicos = Array.from(new Set(politicosFiltrados.map(p => p.nome))).sort();
 
   return (
     <div className="flex flex-wrap gap-4 items-center justify-start w-full mb-8">
@@ -26,7 +30,10 @@ export default function FilterBar({
         <select
           className="appearance-none w-full sm:w-48 bg-white border border-[#FF0055] text-gray-800 px-4 py-2.5 pr-10 rounded-[4px] outline-none focus:ring-1 focus:ring-[#FF0055]/50 font-bold text-[14px] cursor-pointer"
           value={casa}
-          onChange={(e) => setCasa(e.target.value)}
+          onChange={(e) => {
+            setCasa(e.target.value);
+            setParlamentar(""); // Reseta o parlamentar ao trocar de casa
+          }}
         >
           <option value="" className="text-gray-800">Casa Legislativa &gt;&gt;</option>
           <option value="Senador" className="text-gray-800">Senado</option>
@@ -46,7 +53,7 @@ export default function FilterBar({
           value={parlamentar}
           onChange={(e) => setParlamentar(e.target.value)}
         >
-          <option value="" className="text-gray-800">Parlamentar &gt;&gt;</option>
+          <option value="" className="text-gray-800">Todos</option>
           {nomesUnicos.map(nome => (
             <option key={nome} value={nome} className="text-gray-800">{nome}</option>
           ))}

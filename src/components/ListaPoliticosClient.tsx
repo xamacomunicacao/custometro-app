@@ -39,7 +39,7 @@ export default function ListaPoliticosClient({ initialPoliticos, title, subtitle
     }
     
     // Filtrar por Nome do Parlamentar
-    if (filters.parlamentar) {
+    if (filters.parlamentar && filters.parlamentar !== "Todos") {
       const pLower = filters.parlamentar.toLowerCase();
       result = result.filter(s => s.nome.toLowerCase().includes(pLower));
     }

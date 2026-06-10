@@ -55,7 +55,8 @@ export default function FilterBar({
           value={parlamentar}
           onChange={(e) => setParlamentar(e.target.value)}
         >
-          <option value="" className="text-gray-800">Todos</option>
+          <option value="" disabled hidden className="text-gray-800">Parlamentar &gt;&gt;</option>
+          <option value="Todos" className="text-gray-800">Todos</option>
           {nomesUnicos.map(nome => (
             <option key={nome} value={nome} className="text-gray-800">{nome}</option>
           ))}

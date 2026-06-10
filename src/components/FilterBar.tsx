@@ -13,7 +13,7 @@ export default function FilterBar({
   politicosDisponiveis?: Politico[],
   defaultCasa?: string
 }) {
-  const [casa, setCasa] = useState(defaultCasa);
+  const [casa, setCasa] = useState("");
   const [parlamentar, setParlamentar] = useState("");
   const [ano, setAno] = useState("");
   const [mes, setMes] = useState("");

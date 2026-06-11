@@ -296,7 +296,7 @@ export default function DetalhesDespesas({ politico, despesas }: { politico: Pol
                     <polyline points="22,6 12,13 2,6" />
                   </svg>
                 </div>
-                contato@custometro.caboco.tech
+                custometro@blinktv.com
               </li>
             </ul>
           </div>

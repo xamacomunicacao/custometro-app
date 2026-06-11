@@ -547,7 +547,7 @@ export default function Home() {
                       <div className="w-7 h-7 border border-[#FF0055] rounded-md text-[#FF0055] flex items-center justify-center group-hover:bg-[#FF0055] group-hover:text-white transition-colors shadow-[0_0_10px_rgba(255,0,85,0.2)]">
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
                       </div> 
-                      contato@custometro.caboco.tech
+                      custometro@blinktv.com
                     </li>
                   </ul>
                 </motion.div>

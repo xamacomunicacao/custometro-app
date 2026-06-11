@@ -111,12 +111,18 @@ export default function MetodologiaPage() {
 
         <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5, delay: 0.1 }}>
           <h2 className="text-[2.2rem] font-black text-[#1C2331] mb-3 tracking-tight">Fontes e Coleta (Scraping)</h2>
-          <p className="text-gray-600 text-[15px] leading-relaxed mb-10 text-justify">
+          <p className="text-gray-600 text-[15px] leading-relaxed mb-6 text-justify">
             Todos os dados visualizados em nossa plataforma são obtidos unicamente através dos canais de <span className="text-[#FF0055] font-semibold">Dados Abertos</span> e
             Portais da Transparência oficiais (Senado Federal, Câmara Federal, ALEAM e CMM). Utilizamos robôs de extração automatizada
             (Web Scraping) que agem varrendo essas plataformas diariamente, copiando centavo por centavo para nosso banco de dados,
             sem qualquer interferência humana durante a extração.
           </p>
+          <div className="flex flex-wrap gap-3 mb-10">
+            <a href="https://www12.senado.leg.br/transparencia" target="_blank" rel="noopener noreferrer" className="px-4 py-2 border border-gray-200 rounded text-[12px] font-bold text-gray-600 hover:border-[#FF0055] hover:text-[#FF0055] transition-colors">Portal do Senado</a>
+            <a href="https://www.camara.leg.br/transparencia" target="_blank" rel="noopener noreferrer" className="px-4 py-2 border border-gray-200 rounded text-[12px] font-bold text-gray-600 hover:border-[#FF0055] hover:text-[#FF0055] transition-colors">Portal da Câmara Federal</a>
+            <a href="https://transparencia.aleam.gov.br/" target="_blank" rel="noopener noreferrer" className="px-4 py-2 border border-gray-200 rounded text-[12px] font-bold text-gray-600 hover:border-[#FF0055] hover:text-[#FF0055] transition-colors">Portal da ALEAM</a>
+            <a href="https://transparencia.cmm.am.gov.br/" target="_blank" rel="noopener noreferrer" className="px-4 py-2 border border-gray-200 rounded text-[12px] font-bold text-gray-600 hover:border-[#FF0055] hover:text-[#FF0055] transition-colors">Portal da CMM</a>
+          </div>
         </motion.div>
 
         <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5, delay: 0.15 }}>
